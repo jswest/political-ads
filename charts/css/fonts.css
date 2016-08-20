@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'Playfair Display WF';
+    src: url('../fonts/playfairdisplay-regular-webfont.woff2') format('woff2'),
+         url('../fonts/playfairdisplay-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal; }
+
+@font-face {
+  font-family: 'Playfair Display WF';
+  src: url("../fonts/playfairdisplay-black-webfont.eot");
+  src: url("../fonts/playfairdisplay-black-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/playfairdisplay-black-webfont.woff2") format("woff2"), url("../fonts/playfairdisplay-black-webfont.woff") format("woff"), url("../fonts/playfairdisplay-black-webfont.ttf") format("truetype"), url("../fonts/playfairdisplay-black-webfont.svg#playfair_displayblack") format("svg");
+  font-weight: 800;
+  font-style: normal; }
+
+@font-face {
+    font-family: 'Source Sans Pro WF';
+    src: url('../fonts/sourcesanspro-regular-webfont.woff2') format('woff2'),
+         url('../fonts/sourcesanspro-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal; }
+
+@font-face {
+    font-family: 'Source Sans Pro WF';
+    src: url('../fonts/sourcesanspro-extralight-webfont.woff2') format('woff2'),
+         url('../fonts/sourcesanspro-extralight-webfont.woff') format('woff');
+    font-weight: 100;
+    font-style: normal; }
+
+@font-face {
+    font-family: 'Source Sans Pro WF';
+    src: url('../fonts/sourcesanspro-black-webfont.woff2') format('woff2'),
+         url('../fonts/sourcesanspro-black-webfont.woff') format('woff');
+    font-weight: 800;
+    font-style: normal; }

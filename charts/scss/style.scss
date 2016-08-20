@@ -9,17 +9,17 @@ body {
 }
 
 h1, h2, h3, h4, h5 {
-	font-family: "Playfair Display";
+	font-family: "Playfair Display WF";
 }
 
 p {
-	font-family: "Times New Roman";
+	font-family: "Times New Roman", serif;
 }
 
 #primary-jumbotron {
 	text-align: center;
 	.lead {
-		font-family: "Playfair Display";
+		font-family: "Playfair Display WF";
 		font-weight: 800;
 	}
 }
@@ -38,7 +38,7 @@ p {
 	height: 500px;
 	.label {
 		fill: white;
-		font-family: "Source Sans Pro";
+		font-family: "Source Sans Pro WF";
 		font-weight: 100;
 		letter-spacing: 3px;
 		text-transform: uppercase;
@@ -112,7 +112,7 @@ p {
 .viz-dropdown-active {
 	border-bottom: 1px dotted $black;
 	cursor: pointer;
-	font-family: "Source Sans Pro";
+	font-family: "Source Sans Pro WF";
 	font-weight: 100;
 	letter-spacing: 0.2rem;
 	line-height: 2.5rem;
@@ -131,7 +131,7 @@ p {
 		display: block;
 	}
 	li {
-		font-family: "Source Sans Pro";
+		font-family: "Source Sans Pro WF";
 		font-weight: 100;
 		letter-spacing: 0.2rem;
 		list-style: none;
@@ -148,7 +148,7 @@ p {
 	text-align: center;
 }
 .viz-control-explanation {
-	font-family: "Source Sans Pro";
+	font-family: "Source Sans Pro WF";
 	font-size: 1em;
 	font-weight: 800;
 	letter-spacing: 0.2em;
