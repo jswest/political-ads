@@ -60,7 +60,7 @@ _.each( drops, function ( dropDate, candidate ) {
 
 } );
 
-d3.json( '../data/instances-by-candidate.json', function ( instances ) {
+d3.json( 'data/instances-by-candidate.json', function ( instances ) {
 
 	var padding = { top: 10, right: 40, bottom: 40, left: 40 };
 	var width = $( '#viz-time' ).width() - padding.left - padding.right;

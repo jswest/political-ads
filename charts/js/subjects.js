@@ -388,7 +388,7 @@ window.subjectViz = {
 	 */
 	on: function () {
 		this._bindSvg();
-		d3.csv( '../data/subjects.csv', function ( data ) {
+		d3.csv( 'data/subjects.csv', function ( data ) {
 			this._setFilteredSubjects( data );
 			this._createSubjectObjectElements();
 			this._setCandidateData( data );
