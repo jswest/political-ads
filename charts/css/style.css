@@ -1,0 +1,132 @@
+body {
+  background-color: #eceeef; }
+
+h1, h2, h3, h4, h5 {
+  font-family: "Playfair Display"; }
+
+p {
+  font-family: "Times New Roman"; }
+
+#primary-jumbotron {
+  text-align: center; }
+  #primary-jumbotron .lead {
+    font-family: "Playfair Display";
+    font-weight: 800; }
+
+#primary-header {
+  background: linear-gradient(to right, #517693 0%, #990000 100%);
+  height: 2em; }
+
+#primary-content {
+  margin-top: 4em; }
+
+.viz {
+  width: 100%;
+  height: 500px; }
+  .viz .label {
+    fill: white;
+    font-family: "Source Sans Pro";
+    font-weight: 100;
+    letter-spacing: 3px;
+    text-transform: uppercase; }
+    .viz .label.percent-label {
+      fill: #373a3c;
+      font-weight: 800; }
+  .viz .democrat {
+    fill: #517693; }
+  .viz .republican {
+    fill: #990000; }
+  .viz .axis .tick line {
+    stroke: #cccccc; }
+  .viz .domain {
+    stroke-width: 0; }
+  .viz .line {
+    fill: none;
+    stroke: #aaaaaa;
+    stroke-width: 1px; }
+    .viz .line.democrat {
+      fill: none; }
+      .viz .line.democrat.hovered {
+        opacity: 0.75;
+        stroke: #9bb4c8;
+        stroke-width: 2px; }
+      .viz .line.democrat.active {
+        opacity: 1;
+        stroke: #517693;
+        stroke-width: 3px; }
+    .viz .line.republican {
+      fill: none; }
+      .viz .line.republican.hovered {
+        opacity: 0.75;
+        stroke: #ff1a1a;
+        stroke-width: 2px; }
+      .viz .line.republican.active {
+        opacity: 1;
+        stroke: #990000;
+        stroke-width: 2px; }
+    .viz .line.subject.hovered {
+      opacity: 0.75;
+      stroke: #86e036;
+      stroke-width: 2px; }
+    .viz .line.subject.active {
+      opacity: 1;
+      stroke: #488214;
+      stroke-width: 3px; }
+
+.viz-dropdown-active {
+  border-bottom: 1px dotted #373a3c;
+  cursor: pointer;
+  font-family: "Source Sans Pro";
+  font-weight: 100;
+  letter-spacing: 0.2rem;
+  line-height: 2.5rem;
+  padding-left: 1em;
+  text-transform: uppercase;
+  height: 2.5rem; }
+
+.viz-dropdown {
+  display: none;
+  font-family: initial;
+  font-size: 0.75em;
+  position: absolute;
+  transform: translateX(-50%);
+  z-index: 2; }
+  .viz-dropdown.active {
+    display: block; }
+  .viz-dropdown li {
+    font-family: "Source Sans Pro";
+    font-weight: 100;
+    letter-spacing: 0.2rem;
+    list-style: none;
+    text-transform: uppercase; }
+    .viz-dropdown li .percent {
+      float: right; }
+
+.viz-control-sentence {
+  margin-bottom: 2em;
+  position: relative;
+  text-align: center; }
+
+.viz-control-explanation {
+  font-family: "Source Sans Pro";
+  font-size: 1em;
+  font-weight: 800;
+  letter-spacing: 0.2em;
+  margin-bottom: 2em;
+  text-align: center;
+  text-transform: uppercase; }
+
+#viz-control-sentence-subjects-subject,
+#viz-control-sentence-time-subjects-subject,
+#time-controls-candidate {
+  border-bottom: 1px dotted #373a3c;
+  color: #488214;
+  cursor: pointer;
+  font-weight: 800; }
+
+.viz-row {
+  border-top: 1px solid #b5bcc0;
+  margin-top: 2em;
+  padding-top: 2em; }
+
+/*# sourceMappingURL=style.css.map */

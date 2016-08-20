@@ -1,0 +1,12 @@
+{
+  "name": "political-ads",
+  "version": "1.0.0",
+  "description": "",
+  "author": "John West",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^4.2.2",
+    "moment": "^2.14.1",
+    "underscore": "^1.8.3"
+  }
+}

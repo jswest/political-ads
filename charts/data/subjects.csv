@@ -1,0 +1,1818 @@
+party,candidate,subject,unique_ads,air_count
+D,Hillary Clinton,Taxes,11,3690
+D,Hillary Clinton,Candidate Biography,73,4061
+D,Hillary Clinton,Veterans,7,2927
+D,Hillary Clinton,Children,20,6335
+D,Hillary Clinton,Immigration,18,1562
+D,Hillary Clinton,Guns,13,3540
+D,Hillary Clinton,Women,35,11739
+D,Hillary Clinton,Military,11,3399
+D,Hillary Clinton,State Budget,0,0
+D,Hillary Clinton,Economy,25,11426
+D,Hillary Clinton,Jobs,14,2688
+D,Hillary Clinton,Federal Budget,0,0
+D,Hillary Clinton,Trade,3,991
+D,Hillary Clinton,Small Business,2,4
+D,Hillary Clinton,Terrorism,5,1557
+D,Hillary Clinton,Homeland Security,0,0
+D,Hillary Clinton,Environment,3,232
+D,Hillary Clinton,Climate Change,3,361
+D,Hillary Clinton,Energy,4,914
+D,Hillary Clinton,Criminal Justice,4,937
+D,Hillary Clinton,Health Care,28,16936
+D,Hillary Clinton,Campaign Finance,0,0
+D,Hillary Clinton,Education,18,2444
+D,Hillary Clinton,Debt,5,1682
+D,Hillary Clinton,Foreign Policy,23,7564
+D,Hillary Clinton,Housing,0,0
+D,Hillary Clinton,Nuclear,8,3137
+D,Hillary Clinton,Infrastructure,0,0
+D,Hillary Clinton,China,4,1449
+D,Hillary Clinton,Abortion,10,3953
+D,Hillary Clinton,Police,1,2
+D,Hillary Clinton,Crime,1,4
+D,Hillary Clinton,Drugs,2,16
+D,Hillary Clinton,Gays and Lesbians,5,5
+D,Hillary Clinton,Religion,3,66
+D,Hillary Clinton,Islam,3,581
+D,Hillary Clinton,Disability,3,24
+D,Hillary Clinton,Families,13,805
+D,Hillary Clinton,Elections,2,7
+D,Hillary Clinton,Voting Record,0,0
+D,Hillary Clinton,Israel,0,0
+D,Hillary Clinton,Polls and Public Opinion,0,0
+D,Hillary Clinton,Civil Rights,6,1319
+D,Hillary Clinton,Supreme Court,0,0
+D,Hillary Clinton,Social Security,3,4640
+D,Hillary Clinton,Medicare,0,0
+D,Hillary Clinton,Hillary Clinton,1,3
+D,Hillary Clinton,Job Accomplishments,10,3848
+D,Hillary Clinton,Medicaid,0,0
+D,Hillary Clinton,Corporations,3,411
+D,Hillary Clinton,Negative Campaigning,2,256
+D,Hillary Clinton,State Finances,0,0
+D,Hillary Clinton,Income,7,4259
+D,Hillary Clinton,Government Regulation,3,774
+D,Hillary Clinton,Public Safety,3,722
+D,Hillary Clinton,Workers,1,0
+D,Hillary Clinton,Labor,2,230
+D,Hillary Clinton,Financial Regulation,1,211
+D,Hillary Clinton,Deficit,0,0
+D,Hillary Clinton,Legal Issues,0,0
+D,Hillary Clinton,States,0,0
+D,Hillary Clinton,Washington D.C.,2,6
+D,Hillary Clinton,Public Health,2,11
+D,Hillary Clinton,Regulation,3,1
+D,Hillary Clinton,Marriage,2,300
+D,Hillary Clinton,Bipartisanship,1,0
+D,Hillary Clinton,Congress,0,0
+D,Hillary Clinton,Debates,0,0
+D,Hillary Clinton,Government Efficiency,0,0
+D,Hillary Clinton,Patriotism,0,0
+D,Hillary Clinton,Unions,1,0
+D,Hillary Clinton,Iran,0,0
+D,Hillary Clinton,National Security,0,0
+D,Hillary Clinton,Poverty,0,0
+D,Hillary Clinton,Iraq,0,0
+D,Hillary Clinton,Hillary for America,1,3
+D,Hillary Clinton,Transportation,0,0
+D,Hillary Clinton,Human Rights,1,1360
+D,Hillary Clinton,Natural Disasters,0,0
+D,all,Taxes,13,8717
+D,all,Candidate Biography,84,4331
+D,all,Veterans,14,6687
+D,all,Children,25,6364
+D,all,Immigration,24,1565
+D,all,Guns,18,3540
+D,all,Women,42,18814
+D,all,Military,14,3876
+D,all,State Budget,1,0
+D,all,Economy,48,23769
+D,all,Jobs,25,8839
+D,all,Federal Budget,2,4
+D,all,Trade,6,1464
+D,all,Small Business,2,4
+D,all,Terrorism,7,2033
+D,all,Homeland Security,0,0
+D,all,Environment,7,926
+D,all,Climate Change,7,993
+D,all,Energy,7,1546
+D,all,Criminal Justice,9,1399
+D,all,Health Care,36,23459
+D,all,Campaign Finance,9,8821
+D,all,Education,28,4961
+D,all,Debt,7,1682
+D,all,Foreign Policy,24,8037
+D,all,Housing,2,310
+D,all,Nuclear,8,3137
+D,all,Infrastructure,0,0
+D,all,China,6,1896
+D,all,Abortion,13,3965
+D,all,Police,1,2
+D,all,Crime,1,4
+D,all,Drugs,2,16
+D,all,Gays and Lesbians,9,5
+D,all,Religion,3,66
+D,all,Islam,3,581
+D,all,Disability,3,24
+D,all,Families,19,3317
+D,all,Elections,8,23
+D,all,Voting Record,5,497
+D,all,Israel,0,0
+D,all,Polls and Public Opinion,0,0
+D,all,Civil Rights,13,2224
+D,all,Supreme Court,0,0
+D,all,Social Security,7,8222
+D,all,Medicare,0,0
+D,all,Hillary Clinton,1,3
+D,all,Job Accomplishments,16,3881
+D,all,Medicaid,0,0
+D,all,Corporations,4,493
+D,all,Negative Campaigning,5,297
+D,all,State Finances,0,0
+D,all,Income,11,4259
+D,all,Government Regulation,8,783
+D,all,Public Safety,3,722
+D,all,Workers,7,260
+D,all,Labor,4,233
+D,all,Financial Regulation,4,2796
+D,all,Deficit,0,0
+D,all,Legal Issues,0,0
+D,all,States,0,0
+D,all,Washington D.C.,2,6
+D,all,Public Health,2,11
+D,all,Regulation,3,1
+D,all,Marriage,4,300
+D,all,Bipartisanship,1,0
+D,all,Congress,0,0
+D,all,Debates,1,18
+D,all,Government Efficiency,0,0
+D,all,Patriotism,0,0
+D,all,Unions,2,0
+D,all,Iran,0,0
+D,all,National Security,0,0
+D,all,Poverty,0,0
+D,all,Iraq,2,473
+D,all,Hillary for America,1,3
+D,all,Transportation,0,0
+D,all,Human Rights,1,1360
+D,all,Natural Disasters,0,0
+D,Bernie Sanders,Taxes,2,5027
+D,Bernie Sanders,Candidate Biography,9,264
+D,Bernie Sanders,Veterans,7,3760
+D,Bernie Sanders,Children,4,29
+D,Bernie Sanders,Immigration,4,3
+D,Bernie Sanders,Guns,0,0
+D,Bernie Sanders,Women,7,7075
+D,Bernie Sanders,Military,3,477
+D,Bernie Sanders,State Budget,0,0
+D,Bernie Sanders,Economy,20,12343
+D,Bernie Sanders,Jobs,8,6151
+D,Bernie Sanders,Federal Budget,2,4
+D,Bernie Sanders,Trade,3,473
+D,Bernie Sanders,Small Business,0,0
+D,Bernie Sanders,Terrorism,2,476
+D,Bernie Sanders,Homeland Security,0,0
+D,Bernie Sanders,Environment,4,694
+D,Bernie Sanders,Climate Change,3,632
+D,Bernie Sanders,Energy,3,632
+D,Bernie Sanders,Criminal Justice,5,462
+D,Bernie Sanders,Health Care,8,6523
+D,Bernie Sanders,Campaign Finance,9,8821
+D,Bernie Sanders,Education,7,2517
+D,Bernie Sanders,Debt,1,0
+D,Bernie Sanders,Foreign Policy,1,473
+D,Bernie Sanders,Housing,2,310
+D,Bernie Sanders,Nuclear,0,0
+D,Bernie Sanders,Infrastructure,0,0
+D,Bernie Sanders,China,2,447
+D,Bernie Sanders,Abortion,3,12
+D,Bernie Sanders,Police,0,0
+D,Bernie Sanders,Crime,0,0
+D,Bernie Sanders,Drugs,0,0
+D,Bernie Sanders,Gays and Lesbians,1,0
+D,Bernie Sanders,Religion,0,0
+D,Bernie Sanders,Islam,0,0
+D,Bernie Sanders,Disability,0,0
+D,Bernie Sanders,Families,6,2512
+D,Bernie Sanders,Elections,4,0
+D,Bernie Sanders,Voting Record,5,497
+D,Bernie Sanders,Israel,0,0
+D,Bernie Sanders,Polls and Public Opinion,0,0
+D,Bernie Sanders,Civil Rights,7,905
+D,Bernie Sanders,Supreme Court,0,0
+D,Bernie Sanders,Social Security,4,3582
+D,Bernie Sanders,Medicare,0,0
+D,Bernie Sanders,Hillary Clinton,0,0
+D,Bernie Sanders,Job Accomplishments,2,10
+D,Bernie Sanders,Medicaid,0,0
+D,Bernie Sanders,Corporations,1,82
+D,Bernie Sanders,Negative Campaigning,1,18
+D,Bernie Sanders,State Finances,0,0
+D,Bernie Sanders,Income,3,0
+D,Bernie Sanders,Government Regulation,5,9
+D,Bernie Sanders,Public Safety,0,0
+D,Bernie Sanders,Workers,6,260
+D,Bernie Sanders,Labor,2,3
+D,Bernie Sanders,Financial Regulation,3,2585
+D,Bernie Sanders,Deficit,0,0
+D,Bernie Sanders,Legal Issues,0,0
+D,Bernie Sanders,States,0,0
+D,Bernie Sanders,Washington D.C.,0,0
+D,Bernie Sanders,Public Health,0,0
+D,Bernie Sanders,Regulation,0,0
+D,Bernie Sanders,Marriage,0,0
+D,Bernie Sanders,Bipartisanship,0,0
+D,Bernie Sanders,Congress,0,0
+D,Bernie Sanders,Debates,1,18
+D,Bernie Sanders,Government Efficiency,0,0
+D,Bernie Sanders,Patriotism,0,0
+D,Bernie Sanders,Unions,0,0
+D,Bernie Sanders,Iran,0,0
+D,Bernie Sanders,National Security,0,0
+D,Bernie Sanders,Poverty,0,0
+D,Bernie Sanders,Iraq,1,473
+D,Bernie Sanders,Hillary for America,0,0
+D,Bernie Sanders,Transportation,0,0
+D,Bernie Sanders,Human Rights,0,0
+D,Bernie Sanders,Natural Disasters,0,0
+D,Martin O'Malley,Taxes,0,0
+D,Martin O'Malley,Candidate Biography,2,6
+D,Martin O'Malley,Veterans,0,0
+D,Martin O'Malley,Children,1,0
+D,Martin O'Malley,Immigration,2,0
+D,Martin O'Malley,Guns,5,0
+D,Martin O'Malley,Women,0,0
+D,Martin O'Malley,Military,0,0
+D,Martin O'Malley,State Budget,1,0
+D,Martin O'Malley,Economy,3,0
+D,Martin O'Malley,Jobs,3,0
+D,Martin O'Malley,Federal Budget,0,0
+D,Martin O'Malley,Trade,0,0
+D,Martin O'Malley,Small Business,0,0
+D,Martin O'Malley,Terrorism,0,0
+D,Martin O'Malley,Homeland Security,0,0
+D,Martin O'Malley,Environment,0,0
+D,Martin O'Malley,Climate Change,1,0
+D,Martin O'Malley,Energy,0,0
+D,Martin O'Malley,Criminal Justice,0,0
+D,Martin O'Malley,Health Care,0,0
+D,Martin O'Malley,Campaign Finance,0,0
+D,Martin O'Malley,Education,3,0
+D,Martin O'Malley,Debt,1,0
+D,Martin O'Malley,Foreign Policy,0,0
+D,Martin O'Malley,Housing,0,0
+D,Martin O'Malley,Nuclear,0,0
+D,Martin O'Malley,Infrastructure,0,0
+D,Martin O'Malley,China,0,0
+D,Martin O'Malley,Abortion,0,0
+D,Martin O'Malley,Police,0,0
+D,Martin O'Malley,Crime,0,0
+D,Martin O'Malley,Drugs,0,0
+D,Martin O'Malley,Gays and Lesbians,3,0
+D,Martin O'Malley,Religion,0,0
+D,Martin O'Malley,Islam,0,0
+D,Martin O'Malley,Disability,0,0
+D,Martin O'Malley,Families,0,0
+D,Martin O'Malley,Elections,2,16
+D,Martin O'Malley,Voting Record,0,0
+D,Martin O'Malley,Israel,0,0
+D,Martin O'Malley,Polls and Public Opinion,0,0
+D,Martin O'Malley,Civil Rights,0,0
+D,Martin O'Malley,Supreme Court,0,0
+D,Martin O'Malley,Social Security,0,0
+D,Martin O'Malley,Medicare,0,0
+D,Martin O'Malley,Hillary Clinton,0,0
+D,Martin O'Malley,Job Accomplishments,4,23
+D,Martin O'Malley,Medicaid,0,0
+D,Martin O'Malley,Corporations,0,0
+D,Martin O'Malley,Negative Campaigning,2,23
+D,Martin O'Malley,State Finances,0,0
+D,Martin O'Malley,Income,1,0
+D,Martin O'Malley,Government Regulation,0,0
+D,Martin O'Malley,Public Safety,0,0
+D,Martin O'Malley,Workers,0,0
+D,Martin O'Malley,Labor,0,0
+D,Martin O'Malley,Financial Regulation,0,0
+D,Martin O'Malley,Deficit,0,0
+D,Martin O'Malley,Legal Issues,0,0
+D,Martin O'Malley,States,0,0
+D,Martin O'Malley,Washington D.C.,0,0
+D,Martin O'Malley,Public Health,0,0
+D,Martin O'Malley,Regulation,0,0
+D,Martin O'Malley,Marriage,2,0
+D,Martin O'Malley,Bipartisanship,0,0
+D,Martin O'Malley,Congress,0,0
+D,Martin O'Malley,Debates,0,0
+D,Martin O'Malley,Government Efficiency,0,0
+D,Martin O'Malley,Patriotism,0,0
+D,Martin O'Malley,Unions,1,0
+D,Martin O'Malley,Iran,0,0
+D,Martin O'Malley,National Security,0,0
+D,Martin O'Malley,Poverty,0,0
+D,Martin O'Malley,Iraq,1,0
+D,Martin O'Malley,Hillary for America,0,0
+D,Martin O'Malley,Transportation,0,0
+D,Martin O'Malley,Human Rights,0,0
+D,Martin O'Malley,Natural Disasters,0,0
+L,Gary Johnson,Taxes,2,1
+L,Gary Johnson,Candidate Biography,2,0
+L,Gary Johnson,Veterans,0,0
+L,Gary Johnson,Children,0,0
+L,Gary Johnson,Immigration,0,0
+L,Gary Johnson,Guns,0,0
+L,Gary Johnson,Women,0,0
+L,Gary Johnson,Military,2,1
+L,Gary Johnson,State Budget,2,0
+L,Gary Johnson,Economy,1,0
+L,Gary Johnson,Jobs,2,0
+L,Gary Johnson,Federal Budget,2,0
+L,Gary Johnson,Trade,1,0
+L,Gary Johnson,Small Business,1,0
+L,Gary Johnson,Terrorism,0,0
+L,Gary Johnson,Homeland Security,0,0
+L,Gary Johnson,Environment,0,0
+L,Gary Johnson,Climate Change,0,0
+L,Gary Johnson,Energy,0,0
+L,Gary Johnson,Criminal Justice,0,0
+L,Gary Johnson,Health Care,0,0
+L,Gary Johnson,Campaign Finance,0,0
+L,Gary Johnson,Education,0,0
+L,Gary Johnson,Debt,0,0
+L,Gary Johnson,Foreign Policy,0,0
+L,Gary Johnson,Housing,0,0
+L,Gary Johnson,Nuclear,0,0
+L,Gary Johnson,Infrastructure,0,0
+L,Gary Johnson,China,0,0
+L,Gary Johnson,Abortion,0,0
+L,Gary Johnson,Police,0,0
+L,Gary Johnson,Crime,0,0
+L,Gary Johnson,Drugs,0,0
+L,Gary Johnson,Gays and Lesbians,0,0
+L,Gary Johnson,Religion,0,0
+L,Gary Johnson,Islam,0,0
+L,Gary Johnson,Disability,0,0
+L,Gary Johnson,Families,0,0
+L,Gary Johnson,Elections,0,0
+L,Gary Johnson,Voting Record,0,0
+L,Gary Johnson,Israel,0,0
+L,Gary Johnson,Polls and Public Opinion,0,0
+L,Gary Johnson,Civil Rights,0,0
+L,Gary Johnson,Supreme Court,0,0
+L,Gary Johnson,Social Security,0,0
+L,Gary Johnson,Medicare,0,0
+L,Gary Johnson,Hillary Clinton,0,0
+L,Gary Johnson,Job Accomplishments,0,0
+L,Gary Johnson,Medicaid,0,0
+L,Gary Johnson,Corporations,0,0
+L,Gary Johnson,Negative Campaigning,0,0
+L,Gary Johnson,State Finances,0,0
+L,Gary Johnson,Income,0,0
+L,Gary Johnson,Government Regulation,0,0
+L,Gary Johnson,Public Safety,0,0
+L,Gary Johnson,Workers,0,0
+L,Gary Johnson,Labor,0,0
+L,Gary Johnson,Financial Regulation,0,0
+L,Gary Johnson,Deficit,0,0
+L,Gary Johnson,Legal Issues,0,0
+L,Gary Johnson,States,0,0
+L,Gary Johnson,Washington D.C.,0,0
+L,Gary Johnson,Public Health,0,0
+L,Gary Johnson,Regulation,0,0
+L,Gary Johnson,Marriage,0,0
+L,Gary Johnson,Bipartisanship,0,0
+L,Gary Johnson,Congress,0,0
+L,Gary Johnson,Debates,0,0
+L,Gary Johnson,Government Efficiency,0,0
+L,Gary Johnson,Patriotism,0,0
+L,Gary Johnson,Unions,0,0
+L,Gary Johnson,Iran,0,0
+L,Gary Johnson,National Security,0,0
+L,Gary Johnson,Poverty,0,0
+L,Gary Johnson,Iraq,0,0
+L,Gary Johnson,Hillary for America,0,0
+L,Gary Johnson,Transportation,0,0
+L,Gary Johnson,Human Rights,0,0
+L,Gary Johnson,Natural Disasters,0,0
+L,all,Taxes,2,1
+L,all,Candidate Biography,2,0
+L,all,Veterans,0,0
+L,all,Children,0,0
+L,all,Immigration,0,0
+L,all,Guns,0,0
+L,all,Women,0,0
+L,all,Military,2,1
+L,all,State Budget,2,0
+L,all,Economy,1,0
+L,all,Jobs,2,0
+L,all,Federal Budget,2,0
+L,all,Trade,1,0
+L,all,Small Business,1,0
+L,all,Terrorism,0,0
+L,all,Homeland Security,0,0
+L,all,Environment,0,0
+L,all,Climate Change,0,0
+L,all,Energy,0,0
+L,all,Criminal Justice,0,0
+L,all,Health Care,0,0
+L,all,Campaign Finance,0,0
+L,all,Education,0,0
+L,all,Debt,0,0
+L,all,Foreign Policy,0,0
+L,all,Housing,0,0
+L,all,Nuclear,0,0
+L,all,Infrastructure,0,0
+L,all,China,0,0
+L,all,Abortion,0,0
+L,all,Police,0,0
+L,all,Crime,0,0
+L,all,Drugs,0,0
+L,all,Gays and Lesbians,0,0
+L,all,Religion,0,0
+L,all,Islam,0,0
+L,all,Disability,0,0
+L,all,Families,0,0
+L,all,Elections,0,0
+L,all,Voting Record,0,0
+L,all,Israel,0,0
+L,all,Polls and Public Opinion,0,0
+L,all,Civil Rights,0,0
+L,all,Supreme Court,0,0
+L,all,Social Security,0,0
+L,all,Medicare,0,0
+L,all,Hillary Clinton,0,0
+L,all,Job Accomplishments,0,0
+L,all,Medicaid,0,0
+L,all,Corporations,0,0
+L,all,Negative Campaigning,0,0
+L,all,State Finances,0,0
+L,all,Income,0,0
+L,all,Government Regulation,0,0
+L,all,Public Safety,0,0
+L,all,Workers,0,0
+L,all,Labor,0,0
+L,all,Financial Regulation,0,0
+L,all,Deficit,0,0
+L,all,Legal Issues,0,0
+L,all,States,0,0
+L,all,Washington D.C.,0,0
+L,all,Public Health,0,0
+L,all,Regulation,0,0
+L,all,Marriage,0,0
+L,all,Bipartisanship,0,0
+L,all,Congress,0,0
+L,all,Debates,0,0
+L,all,Government Efficiency,0,0
+L,all,Patriotism,0,0
+L,all,Unions,0,0
+L,all,Iran,0,0
+L,all,National Security,0,0
+L,all,Poverty,0,0
+L,all,Iraq,0,0
+L,all,Hillary for America,0,0
+L,all,Transportation,0,0
+L,all,Human Rights,0,0
+L,all,Natural Disasters,0,0
+R,Donald Trump,Taxes,7,392
+R,Donald Trump,Candidate Biography,39,3248
+R,Donald Trump,Veterans,5,1461
+R,Donald Trump,Children,1,73
+R,Donald Trump,Immigration,19,7727
+R,Donald Trump,Guns,8,1708
+R,Donald Trump,Women,6,233
+R,Donald Trump,Military,5,1464
+R,Donald Trump,State Budget,1,276
+R,Donald Trump,Economy,11,2889
+R,Donald Trump,Jobs,10,1097
+R,Donald Trump,Federal Budget,1,69
+R,Donald Trump,Trade,10,1113
+R,Donald Trump,Small Business,0,0
+R,Donald Trump,Terrorism,10,2157
+R,Donald Trump,Homeland Security,3,3
+R,Donald Trump,Environment,0,0
+R,Donald Trump,Climate Change,0,0
+R,Donald Trump,Energy,0,0
+R,Donald Trump,Criminal Justice,0,0
+R,Donald Trump,Health Care,11,2033
+R,Donald Trump,Campaign Finance,5,328
+R,Donald Trump,Education,3,160
+R,Donald Trump,Debt,1,69
+R,Donald Trump,Foreign Policy,2,17
+R,Donald Trump,Housing,1,0
+R,Donald Trump,Nuclear,0,0
+R,Donald Trump,Infrastructure,1,125
+R,Donald Trump,China,4,21
+R,Donald Trump,Abortion,3,99
+R,Donald Trump,Police,1,73
+R,Donald Trump,Crime,1,73
+R,Donald Trump,Drugs,1,1
+R,Donald Trump,Gays and Lesbians,0,0
+R,Donald Trump,Religion,1,0
+R,Donald Trump,Islam,1,0
+R,Donald Trump,Disability,1,0
+R,Donald Trump,Families,1,2
+R,Donald Trump,Elections,1,0
+R,Donald Trump,Voting Record,3,1955
+R,Donald Trump,Israel,1,0
+R,Donald Trump,Polls and Public Opinion,1,0
+R,Donald Trump,Civil Rights,0,0
+R,Donald Trump,Supreme Court,1,0
+R,Donald Trump,Social Security,1,311
+R,Donald Trump,Medicare,1,311
+R,Donald Trump,Hillary Clinton,0,0
+R,Donald Trump,Job Accomplishments,1,1
+R,Donald Trump,Medicaid,0,0
+R,Donald Trump,Corporations,1,0
+R,Donald Trump,Negative Campaigning,0,0
+R,Donald Trump,State Finances,0,0
+R,Donald Trump,Income,0,0
+R,Donald Trump,Government Regulation,1,3
+R,Donald Trump,Public Safety,0,0
+R,Donald Trump,Workers,0,0
+R,Donald Trump,Labor,0,0
+R,Donald Trump,Financial Regulation,0,0
+R,Donald Trump,Deficit,0,0
+R,Donald Trump,Legal Issues,5,974
+R,Donald Trump,States,0,0
+R,Donald Trump,Washington D.C.,2,28
+R,Donald Trump,Public Health,0,0
+R,Donald Trump,Regulation,0,0
+R,Donald Trump,Marriage,0,0
+R,Donald Trump,Bipartisanship,0,0
+R,Donald Trump,Congress,0,0
+R,Donald Trump,Debates,0,0
+R,Donald Trump,Government Efficiency,0,0
+R,Donald Trump,Patriotism,1,2130
+R,Donald Trump,Unions,0,0
+R,Donald Trump,Iran,0,0
+R,Donald Trump,National Security,0,0
+R,Donald Trump,Poverty,0,0
+R,Donald Trump,Iraq,0,0
+R,Donald Trump,Hillary for America,0,0
+R,Donald Trump,Transportation,0,0
+R,Donald Trump,Human Rights,0,0
+R,Donald Trump,Natural Disasters,0,0
+R,all,Taxes,56,4805
+R,all,Candidate Biography,117,10440
+R,all,Veterans,7,2056
+R,all,Children,6,76
+R,all,Immigration,66,15738
+R,all,Guns,23,2898
+R,all,Women,13,484
+R,all,Military,36,5787
+R,all,State Budget,15,1687
+R,all,Economy,44,5747
+R,all,Jobs,52,4204
+R,all,Federal Budget,15,697
+R,all,Trade,14,1566
+R,all,Small Business,3,149
+R,all,Terrorism,54,12736
+R,all,Homeland Security,32,5741
+R,all,Environment,2,2
+R,all,Climate Change,0,0
+R,all,Energy,2,52
+R,all,Criminal Justice,2,3
+R,all,Health Care,50,6798
+R,all,Campaign Finance,11,345
+R,all,Education,15,1144
+R,all,Debt,9,92
+R,all,Foreign Policy,29,4157
+R,all,Housing,1,0
+R,all,Nuclear,4,385
+R,all,Infrastructure,1,125
+R,all,China,8,547
+R,all,Abortion,29,2112
+R,all,Police,2,75
+R,all,Crime,5,76
+R,all,Drugs,2,1
+R,all,Gays and Lesbians,4,55
+R,all,Religion,23,2835
+R,all,Islam,6,599
+R,all,Disability,2,18
+R,all,Families,8,314
+R,all,Elections,17,838
+R,all,Voting Record,34,8038
+R,all,Israel,4,401
+R,all,Polls and Public Opinion,3,0
+R,all,Civil Rights,4,23
+R,all,Supreme Court,15,961
+R,all,Social Security,4,311
+R,all,Medicare,6,448
+R,all,Hillary Clinton,1,0
+R,all,Job Accomplishments,53,5272
+R,all,Medicaid,3,5
+R,all,Corporations,1,0
+R,all,Negative Campaigning,24,1114
+R,all,State Finances,4,843
+R,all,Income,0,0
+R,all,Government Regulation,6,7
+R,all,Public Safety,1,1
+R,all,Workers,1,595
+R,all,Labor,0,0
+R,all,Financial Regulation,1,138
+R,all,Deficit,3,310
+R,all,Legal Issues,13,1213
+R,all,States,4,575
+R,all,Washington D.C.,20,1207
+R,all,Public Health,1,0
+R,all,Regulation,1,259
+R,all,Marriage,4,156
+R,all,Bipartisanship,10,993
+R,all,Congress,5,230
+R,all,Debates,6,75
+R,all,Government Efficiency,14,23
+R,all,Patriotism,8,2146
+R,all,Unions,4,439
+R,all,Iran,5,588
+R,all,National Security,2,0
+R,all,Poverty,1,169
+R,all,Iraq,0,0
+R,all,Hillary for America,0,0
+R,all,Transportation,1,0
+R,all,Human Rights,0,0
+R,all,Natural Disasters,1,525
+R,Ted Cruz,Taxes,12,419
+R,Ted Cruz,Candidate Biography,26,340
+R,Ted Cruz,Veterans,0,0
+R,Ted Cruz,Children,0,0
+R,Ted Cruz,Immigration,35,4939
+R,Ted Cruz,Guns,11,196
+R,Ted Cruz,Women,1,1
+R,Ted Cruz,Military,7,773
+R,Ted Cruz,State Budget,0,0
+R,Ted Cruz,Economy,9,154
+R,Ted Cruz,Jobs,9,237
+R,Ted Cruz,Federal Budget,3,62
+R,Ted Cruz,Trade,3,9
+R,Ted Cruz,Small Business,2,2
+R,Ted Cruz,Terrorism,17,3094
+R,Ted Cruz,Homeland Security,11,2155
+R,Ted Cruz,Environment,2,2
+R,Ted Cruz,Climate Change,0,0
+R,Ted Cruz,Energy,2,52
+R,Ted Cruz,Criminal Justice,2,3
+R,Ted Cruz,Health Care,24,1512
+R,Ted Cruz,Campaign Finance,5,17
+R,Ted Cruz,Education,3,273
+R,Ted Cruz,Debt,3,23
+R,Ted Cruz,Foreign Policy,7,1578
+R,Ted Cruz,Housing,0,0
+R,Ted Cruz,Nuclear,1,0
+R,Ted Cruz,Infrastructure,0,0
+R,Ted Cruz,China,2,5
+R,Ted Cruz,Abortion,15,1603
+R,Ted Cruz,Police,1,2
+R,Ted Cruz,Crime,2,3
+R,Ted Cruz,Drugs,0,0
+R,Ted Cruz,Gays and Lesbians,4,55
+R,Ted Cruz,Religion,11,1372
+R,Ted Cruz,Islam,2,362
+R,Ted Cruz,Disability,0,0
+R,Ted Cruz,Families,1,50
+R,Ted Cruz,Elections,3,3
+R,Ted Cruz,Voting Record,10,807
+R,Ted Cruz,Israel,1,0
+R,Ted Cruz,Polls and Public Opinion,0,0
+R,Ted Cruz,Civil Rights,4,23
+R,Ted Cruz,Supreme Court,13,539
+R,Ted Cruz,Social Security,0,0
+R,Ted Cruz,Medicare,0,0
+R,Ted Cruz,Hillary Clinton,0,0
+R,Ted Cruz,Job Accomplishments,6,980
+R,Ted Cruz,Medicaid,1,4
+R,Ted Cruz,Corporations,0,0
+R,Ted Cruz,Negative Campaigning,5,1
+R,Ted Cruz,State Finances,0,0
+R,Ted Cruz,Income,0,0
+R,Ted Cruz,Government Regulation,4,3
+R,Ted Cruz,Public Safety,1,1
+R,Ted Cruz,Workers,0,0
+R,Ted Cruz,Labor,0,0
+R,Ted Cruz,Financial Regulation,0,0
+R,Ted Cruz,Deficit,0,0
+R,Ted Cruz,Legal Issues,4,141
+R,Ted Cruz,States,4,575
+R,Ted Cruz,Washington D.C.,13,1179
+R,Ted Cruz,Public Health,1,0
+R,Ted Cruz,Regulation,0,0
+R,Ted Cruz,Marriage,3,155
+R,Ted Cruz,Bipartisanship,5,86
+R,Ted Cruz,Congress,2,230
+R,Ted Cruz,Debates,2,0
+R,Ted Cruz,Government Efficiency,4,20
+R,Ted Cruz,Patriotism,0,0
+R,Ted Cruz,Unions,0,0
+R,Ted Cruz,Iran,2,558
+R,Ted Cruz,National Security,1,0
+R,Ted Cruz,Poverty,0,0
+R,Ted Cruz,Iraq,0,0
+R,Ted Cruz,Hillary for America,0,0
+R,Ted Cruz,Transportation,1,0
+R,Ted Cruz,Human Rights,0,0
+R,Ted Cruz,Natural Disasters,0,0
+R,John Kasich,Taxes,10,1869
+R,John Kasich,Candidate Biography,24,798
+R,John Kasich,Veterans,1,0
+R,John Kasich,Children,1,0
+R,John Kasich,Immigration,2,6
+R,John Kasich,Guns,1,2
+R,John Kasich,Women,3,20
+R,John Kasich,Military,8,51
+R,John Kasich,State Budget,7,739
+R,John Kasich,Economy,9,922
+R,John Kasich,Jobs,17,1744
+R,John Kasich,Federal Budget,8,358
+R,John Kasich,Trade,0,0
+R,John Kasich,Small Business,0,0
+R,John Kasich,Terrorism,2,199
+R,John Kasich,Homeland Security,3,260
+R,John Kasich,Environment,0,0
+R,John Kasich,Climate Change,0,0
+R,John Kasich,Energy,0,0
+R,John Kasich,Criminal Justice,0,0
+R,John Kasich,Health Care,3,3
+R,John Kasich,Campaign Finance,0,0
+R,John Kasich,Education,0,0
+R,John Kasich,Debt,0,0
+R,John Kasich,Foreign Policy,2,5
+R,John Kasich,Housing,0,0
+R,John Kasich,Nuclear,1,14
+R,John Kasich,Infrastructure,0,0
+R,John Kasich,China,1,150
+R,John Kasich,Abortion,1,14
+R,John Kasich,Police,0,0
+R,John Kasich,Crime,0,0
+R,John Kasich,Drugs,0,0
+R,John Kasich,Gays and Lesbians,0,0
+R,John Kasich,Religion,3,276
+R,John Kasich,Islam,0,0
+R,John Kasich,Disability,1,18
+R,John Kasich,Families,2,261
+R,John Kasich,Elections,6,733
+R,John Kasich,Voting Record,5,197
+R,John Kasich,Israel,0,0
+R,John Kasich,Polls and Public Opinion,2,0
+R,John Kasich,Civil Rights,0,0
+R,John Kasich,Supreme Court,0,0
+R,John Kasich,Social Security,0,0
+R,John Kasich,Medicare,1,1
+R,John Kasich,Hillary Clinton,1,0
+R,John Kasich,Job Accomplishments,22,1645
+R,John Kasich,Medicaid,1,1
+R,John Kasich,Corporations,0,0
+R,John Kasich,Negative Campaigning,11,505
+R,John Kasich,State Finances,2,197
+R,John Kasich,Income,0,0
+R,John Kasich,Government Regulation,1,1
+R,John Kasich,Public Safety,0,0
+R,John Kasich,Workers,0,0
+R,John Kasich,Labor,0,0
+R,John Kasich,Financial Regulation,0,0
+R,John Kasich,Deficit,2,310
+R,John Kasich,Legal Issues,1,0
+R,John Kasich,States,0,0
+R,John Kasich,Washington D.C.,0,0
+R,John Kasich,Public Health,0,0
+R,John Kasich,Regulation,1,259
+R,John Kasich,Marriage,0,0
+R,John Kasich,Bipartisanship,1,0
+R,John Kasich,Congress,0,0
+R,John Kasich,Debates,0,0
+R,John Kasich,Government Efficiency,2,0
+R,John Kasich,Patriotism,1,0
+R,John Kasich,Unions,0,0
+R,John Kasich,Iran,0,0
+R,John Kasich,National Security,0,0
+R,John Kasich,Poverty,0,0
+R,John Kasich,Iraq,0,0
+R,John Kasich,Hillary for America,0,0
+R,John Kasich,Transportation,0,0
+R,John Kasich,Human Rights,0,0
+R,John Kasich,Natural Disasters,0,0
+R,Chris Christie,Taxes,4,115
+R,Chris Christie,Candidate Biography,0,0
+R,Chris Christie,Veterans,0,0
+R,Chris Christie,Children,0,0
+R,Chris Christie,Immigration,0,0
+R,Chris Christie,Guns,0,0
+R,Chris Christie,Women,0,0
+R,Chris Christie,Military,3,0
+R,Chris Christie,State Budget,3,115
+R,Chris Christie,Economy,0,0
+R,Chris Christie,Jobs,1,0
+R,Chris Christie,Federal Budget,0,0
+R,Chris Christie,Trade,0,0
+R,Chris Christie,Small Business,0,0
+R,Chris Christie,Terrorism,9,1537
+R,Chris Christie,Homeland Security,5,559
+R,Chris Christie,Environment,0,0
+R,Chris Christie,Climate Change,0,0
+R,Chris Christie,Energy,0,0
+R,Chris Christie,Criminal Justice,0,0
+R,Chris Christie,Health Care,1,0
+R,Chris Christie,Campaign Finance,0,0
+R,Chris Christie,Education,1,0
+R,Chris Christie,Debt,1,0
+R,Chris Christie,Foreign Policy,5,149
+R,Chris Christie,Housing,0,0
+R,Chris Christie,Nuclear,1,0
+R,Chris Christie,Infrastructure,0,0
+R,Chris Christie,China,0,0
+R,Chris Christie,Abortion,1,0
+R,Chris Christie,Police,0,0
+R,Chris Christie,Crime,0,0
+R,Chris Christie,Drugs,0,0
+R,Chris Christie,Gays and Lesbians,0,0
+R,Chris Christie,Religion,0,0
+R,Chris Christie,Islam,1,237
+R,Chris Christie,Disability,0,0
+R,Chris Christie,Families,1,0
+R,Chris Christie,Elections,0,0
+R,Chris Christie,Voting Record,1,0
+R,Chris Christie,Israel,0,0
+R,Chris Christie,Polls and Public Opinion,0,0
+R,Chris Christie,Civil Rights,0,0
+R,Chris Christie,Supreme Court,0,0
+R,Chris Christie,Social Security,2,0
+R,Chris Christie,Medicare,2,0
+R,Chris Christie,Hillary Clinton,0,0
+R,Chris Christie,Job Accomplishments,6,435
+R,Chris Christie,Medicaid,0,0
+R,Chris Christie,Corporations,0,0
+R,Chris Christie,Negative Campaigning,0,0
+R,Chris Christie,State Finances,0,0
+R,Chris Christie,Income,0,0
+R,Chris Christie,Government Regulation,0,0
+R,Chris Christie,Public Safety,0,0
+R,Chris Christie,Workers,0,0
+R,Chris Christie,Labor,0,0
+R,Chris Christie,Financial Regulation,1,138
+R,Chris Christie,Deficit,0,0
+R,Chris Christie,Legal Issues,0,0
+R,Chris Christie,States,0,0
+R,Chris Christie,Washington D.C.,4,0
+R,Chris Christie,Public Health,0,0
+R,Chris Christie,Regulation,0,0
+R,Chris Christie,Marriage,0,0
+R,Chris Christie,Bipartisanship,0,0
+R,Chris Christie,Congress,3,0
+R,Chris Christie,Debates,0,0
+R,Chris Christie,Government Efficiency,2,0
+R,Chris Christie,Patriotism,0,0
+R,Chris Christie,Unions,3,439
+R,Chris Christie,Iran,1,0
+R,Chris Christie,National Security,0,0
+R,Chris Christie,Poverty,0,0
+R,Chris Christie,Iraq,0,0
+R,Chris Christie,Hillary for America,0,0
+R,Chris Christie,Transportation,0,0
+R,Chris Christie,Human Rights,0,0
+R,Chris Christie,Natural Disasters,0,0
+R,Marco Rubio,Taxes,7,1692
+R,Marco Rubio,Candidate Biography,12,5451
+R,Marco Rubio,Veterans,1,595
+R,Marco Rubio,Children,0,0
+R,Marco Rubio,Immigration,2,746
+R,Marco Rubio,Guns,0,0
+R,Marco Rubio,Women,0,0
+R,Marco Rubio,Military,1,175
+R,Marco Rubio,State Budget,1,557
+R,Marco Rubio,Economy,7,643
+R,Marco Rubio,Jobs,3,118
+R,Marco Rubio,Federal Budget,0,0
+R,Marco Rubio,Trade,1,444
+R,Marco Rubio,Small Business,0,0
+R,Marco Rubio,Terrorism,4,597
+R,Marco Rubio,Homeland Security,2,873
+R,Marco Rubio,Environment,0,0
+R,Marco Rubio,Climate Change,0,0
+R,Marco Rubio,Energy,0,0
+R,Marco Rubio,Criminal Justice,0,0
+R,Marco Rubio,Health Care,4,1993
+R,Marco Rubio,Campaign Finance,0,0
+R,Marco Rubio,Education,4,542
+R,Marco Rubio,Debt,0,0
+R,Marco Rubio,Foreign Policy,5,1098
+R,Marco Rubio,Housing,0,0
+R,Marco Rubio,Nuclear,1,371
+R,Marco Rubio,Infrastructure,0,0
+R,Marco Rubio,China,1,371
+R,Marco Rubio,Abortion,1,50
+R,Marco Rubio,Police,0,0
+R,Marco Rubio,Crime,0,0
+R,Marco Rubio,Drugs,0,0
+R,Marco Rubio,Gays and Lesbians,0,0
+R,Marco Rubio,Religion,0,0
+R,Marco Rubio,Islam,0,0
+R,Marco Rubio,Disability,0,0
+R,Marco Rubio,Families,0,0
+R,Marco Rubio,Elections,2,11
+R,Marco Rubio,Voting Record,3,472
+R,Marco Rubio,Israel,1,371
+R,Marco Rubio,Polls and Public Opinion,0,0
+R,Marco Rubio,Civil Rights,0,0
+R,Marco Rubio,Supreme Court,1,422
+R,Marco Rubio,Social Security,1,0
+R,Marco Rubio,Medicare,2,136
+R,Marco Rubio,Hillary Clinton,0,0
+R,Marco Rubio,Job Accomplishments,3,1044
+R,Marco Rubio,Medicaid,0,0
+R,Marco Rubio,Corporations,0,0
+R,Marco Rubio,Negative Campaigning,2,336
+R,Marco Rubio,State Finances,0,0
+R,Marco Rubio,Income,0,0
+R,Marco Rubio,Government Regulation,0,0
+R,Marco Rubio,Public Safety,0,0
+R,Marco Rubio,Workers,1,595
+R,Marco Rubio,Labor,0,0
+R,Marco Rubio,Financial Regulation,0,0
+R,Marco Rubio,Deficit,0,0
+R,Marco Rubio,Legal Issues,0,0
+R,Marco Rubio,States,0,0
+R,Marco Rubio,Washington D.C.,1,0
+R,Marco Rubio,Public Health,0,0
+R,Marco Rubio,Regulation,0,0
+R,Marco Rubio,Marriage,0,0
+R,Marco Rubio,Bipartisanship,1,906
+R,Marco Rubio,Congress,0,0
+R,Marco Rubio,Debates,2,50
+R,Marco Rubio,Government Efficiency,0,0
+R,Marco Rubio,Patriotism,3,16
+R,Marco Rubio,Unions,0,0
+R,Marco Rubio,Iran,0,0
+R,Marco Rubio,National Security,1,0
+R,Marco Rubio,Poverty,0,0
+R,Marco Rubio,Iraq,0,0
+R,Marco Rubio,Hillary for America,0,0
+R,Marco Rubio,Transportation,0,0
+R,Marco Rubio,Human Rights,0,0
+R,Marco Rubio,Natural Disasters,0,0
+R,Jeb Bush,Taxes,11,170
+R,Jeb Bush,Candidate Biography,3,459
+R,Jeb Bush,Veterans,0,0
+R,Jeb Bush,Children,0,0
+R,Jeb Bush,Immigration,5,2320
+R,Jeb Bush,Guns,2,992
+R,Jeb Bush,Women,1,224
+R,Jeb Bush,Military,8,3324
+R,Jeb Bush,State Budget,3,0
+R,Jeb Bush,Economy,5,992
+R,Jeb Bush,Jobs,7,1008
+R,Jeb Bush,Federal Budget,2,208
+R,Jeb Bush,Trade,0,0
+R,Jeb Bush,Small Business,0,0
+R,Jeb Bush,Terrorism,9,5152
+R,Jeb Bush,Homeland Security,2,1891
+R,Jeb Bush,Environment,0,0
+R,Jeb Bush,Climate Change,0,0
+R,Jeb Bush,Energy,0,0
+R,Jeb Bush,Criminal Justice,0,0
+R,Jeb Bush,Health Care,4,1171
+R,Jeb Bush,Campaign Finance,1,0
+R,Jeb Bush,Education,3,169
+R,Jeb Bush,Debt,0,0
+R,Jeb Bush,Foreign Policy,5,1308
+R,Jeb Bush,Housing,0,0
+R,Jeb Bush,Nuclear,0,0
+R,Jeb Bush,Infrastructure,0,0
+R,Jeb Bush,China,0,0
+R,Jeb Bush,Abortion,3,98
+R,Jeb Bush,Police,0,0
+R,Jeb Bush,Crime,1,0
+R,Jeb Bush,Drugs,0,0
+R,Jeb Bush,Gays and Lesbians,0,0
+R,Jeb Bush,Religion,1,529
+R,Jeb Bush,Islam,0,0
+R,Jeb Bush,Disability,0,0
+R,Jeb Bush,Families,0,0
+R,Jeb Bush,Elections,1,0
+R,Jeb Bush,Voting Record,10,4335
+R,Jeb Bush,Israel,1,30
+R,Jeb Bush,Polls and Public Opinion,0,0
+R,Jeb Bush,Civil Rights,0,0
+R,Jeb Bush,Supreme Court,0,0
+R,Jeb Bush,Social Security,0,0
+R,Jeb Bush,Medicare,0,0
+R,Jeb Bush,Hillary Clinton,0,0
+R,Jeb Bush,Job Accomplishments,7,915
+R,Jeb Bush,Medicaid,0,0
+R,Jeb Bush,Corporations,0,0
+R,Jeb Bush,Negative Campaigning,0,0
+R,Jeb Bush,State Finances,2,646
+R,Jeb Bush,Income,0,0
+R,Jeb Bush,Government Regulation,0,0
+R,Jeb Bush,Public Safety,0,0
+R,Jeb Bush,Workers,0,0
+R,Jeb Bush,Labor,0,0
+R,Jeb Bush,Financial Regulation,0,0
+R,Jeb Bush,Deficit,0,0
+R,Jeb Bush,Legal Issues,2,98
+R,Jeb Bush,States,0,0
+R,Jeb Bush,Washington D.C.,0,0
+R,Jeb Bush,Public Health,0,0
+R,Jeb Bush,Regulation,0,0
+R,Jeb Bush,Marriage,0,0
+R,Jeb Bush,Bipartisanship,0,0
+R,Jeb Bush,Congress,0,0
+R,Jeb Bush,Debates,1,23
+R,Jeb Bush,Government Efficiency,1,0
+R,Jeb Bush,Patriotism,1,0
+R,Jeb Bush,Unions,0,0
+R,Jeb Bush,Iran,1,30
+R,Jeb Bush,National Security,0,0
+R,Jeb Bush,Poverty,1,169
+R,Jeb Bush,Iraq,0,0
+R,Jeb Bush,Hillary for America,0,0
+R,Jeb Bush,Transportation,0,0
+R,Jeb Bush,Human Rights,0,0
+R,Jeb Bush,Natural Disasters,1,525
+R,Ben Carson,Taxes,1,0
+R,Ben Carson,Candidate Biography,4,0
+R,Ben Carson,Veterans,0,0
+R,Ben Carson,Children,2,0
+R,Ben Carson,Immigration,0,0
+R,Ben Carson,Guns,0,0
+R,Ben Carson,Women,1,0
+R,Ben Carson,Military,2,0
+R,Ben Carson,State Budget,0,0
+R,Ben Carson,Economy,1,0
+R,Ben Carson,Jobs,0,0
+R,Ben Carson,Federal Budget,0,0
+R,Ben Carson,Trade,0,0
+R,Ben Carson,Small Business,0,0
+R,Ben Carson,Terrorism,1,0
+R,Ben Carson,Homeland Security,1,0
+R,Ben Carson,Environment,0,0
+R,Ben Carson,Climate Change,0,0
+R,Ben Carson,Energy,0,0
+R,Ben Carson,Criminal Justice,0,0
+R,Ben Carson,Health Care,0,0
+R,Ben Carson,Campaign Finance,0,0
+R,Ben Carson,Education,0,0
+R,Ben Carson,Debt,3,0
+R,Ben Carson,Foreign Policy,1,0
+R,Ben Carson,Housing,0,0
+R,Ben Carson,Nuclear,0,0
+R,Ben Carson,Infrastructure,0,0
+R,Ben Carson,China,0,0
+R,Ben Carson,Abortion,1,0
+R,Ben Carson,Police,0,0
+R,Ben Carson,Crime,0,0
+R,Ben Carson,Drugs,1,0
+R,Ben Carson,Gays and Lesbians,0,0
+R,Ben Carson,Religion,2,0
+R,Ben Carson,Islam,1,0
+R,Ben Carson,Disability,0,0
+R,Ben Carson,Families,0,0
+R,Ben Carson,Elections,1,0
+R,Ben Carson,Voting Record,0,0
+R,Ben Carson,Israel,0,0
+R,Ben Carson,Polls and Public Opinion,0,0
+R,Ben Carson,Civil Rights,0,0
+R,Ben Carson,Supreme Court,0,0
+R,Ben Carson,Social Security,0,0
+R,Ben Carson,Medicare,0,0
+R,Ben Carson,Hillary Clinton,0,0
+R,Ben Carson,Job Accomplishments,2,1
+R,Ben Carson,Medicaid,0,0
+R,Ben Carson,Corporations,0,0
+R,Ben Carson,Negative Campaigning,3,0
+R,Ben Carson,State Finances,0,0
+R,Ben Carson,Income,0,0
+R,Ben Carson,Government Regulation,0,0
+R,Ben Carson,Public Safety,0,0
+R,Ben Carson,Workers,0,0
+R,Ben Carson,Labor,0,0
+R,Ben Carson,Financial Regulation,0,0
+R,Ben Carson,Deficit,0,0
+R,Ben Carson,Legal Issues,0,0
+R,Ben Carson,States,0,0
+R,Ben Carson,Washington D.C.,0,0
+R,Ben Carson,Public Health,0,0
+R,Ben Carson,Regulation,0,0
+R,Ben Carson,Marriage,0,0
+R,Ben Carson,Bipartisanship,3,1
+R,Ben Carson,Congress,0,0
+R,Ben Carson,Debates,0,0
+R,Ben Carson,Government Efficiency,1,0
+R,Ben Carson,Patriotism,1,0
+R,Ben Carson,Unions,0,0
+R,Ben Carson,Iran,1,0
+R,Ben Carson,National Security,0,0
+R,Ben Carson,Poverty,0,0
+R,Ben Carson,Iraq,0,0
+R,Ben Carson,Hillary for America,0,0
+R,Ben Carson,Transportation,0,0
+R,Ben Carson,Human Rights,0,0
+R,Ben Carson,Natural Disasters,0,0
+R,Rick Santorum,Taxes,0,0
+R,Rick Santorum,Candidate Biography,0,0
+R,Rick Santorum,Veterans,0,0
+R,Rick Santorum,Children,0,0
+R,Rick Santorum,Immigration,0,0
+R,Rick Santorum,Guns,0,0
+R,Rick Santorum,Women,0,0
+R,Rick Santorum,Military,0,0
+R,Rick Santorum,State Budget,0,0
+R,Rick Santorum,Economy,0,0
+R,Rick Santorum,Jobs,0,0
+R,Rick Santorum,Federal Budget,0,0
+R,Rick Santorum,Trade,0,0
+R,Rick Santorum,Small Business,0,0
+R,Rick Santorum,Terrorism,0,0
+R,Rick Santorum,Homeland Security,0,0
+R,Rick Santorum,Environment,0,0
+R,Rick Santorum,Climate Change,0,0
+R,Rick Santorum,Energy,0,0
+R,Rick Santorum,Criminal Justice,0,0
+R,Rick Santorum,Health Care,0,0
+R,Rick Santorum,Campaign Finance,0,0
+R,Rick Santorum,Education,0,0
+R,Rick Santorum,Debt,0,0
+R,Rick Santorum,Foreign Policy,1,0
+R,Rick Santorum,Housing,0,0
+R,Rick Santorum,Nuclear,0,0
+R,Rick Santorum,Infrastructure,0,0
+R,Rick Santorum,China,0,0
+R,Rick Santorum,Abortion,0,0
+R,Rick Santorum,Police,0,0
+R,Rick Santorum,Crime,0,0
+R,Rick Santorum,Drugs,0,0
+R,Rick Santorum,Gays and Lesbians,0,0
+R,Rick Santorum,Religion,0,0
+R,Rick Santorum,Islam,0,0
+R,Rick Santorum,Disability,0,0
+R,Rick Santorum,Families,0,0
+R,Rick Santorum,Elections,0,0
+R,Rick Santorum,Voting Record,0,0
+R,Rick Santorum,Israel,0,0
+R,Rick Santorum,Polls and Public Opinion,0,0
+R,Rick Santorum,Civil Rights,0,0
+R,Rick Santorum,Supreme Court,0,0
+R,Rick Santorum,Social Security,0,0
+R,Rick Santorum,Medicare,0,0
+R,Rick Santorum,Hillary Clinton,0,0
+R,Rick Santorum,Job Accomplishments,0,0
+R,Rick Santorum,Medicaid,0,0
+R,Rick Santorum,Corporations,0,0
+R,Rick Santorum,Negative Campaigning,0,0
+R,Rick Santorum,State Finances,0,0
+R,Rick Santorum,Income,0,0
+R,Rick Santorum,Government Regulation,0,0
+R,Rick Santorum,Public Safety,0,0
+R,Rick Santorum,Workers,0,0
+R,Rick Santorum,Labor,0,0
+R,Rick Santorum,Financial Regulation,0,0
+R,Rick Santorum,Deficit,0,0
+R,Rick Santorum,Legal Issues,1,0
+R,Rick Santorum,States,0,0
+R,Rick Santorum,Washington D.C.,0,0
+R,Rick Santorum,Public Health,0,0
+R,Rick Santorum,Regulation,0,0
+R,Rick Santorum,Marriage,0,0
+R,Rick Santorum,Bipartisanship,0,0
+R,Rick Santorum,Congress,0,0
+R,Rick Santorum,Debates,0,0
+R,Rick Santorum,Government Efficiency,0,0
+R,Rick Santorum,Patriotism,0,0
+R,Rick Santorum,Unions,0,0
+R,Rick Santorum,Iran,0,0
+R,Rick Santorum,National Security,0,0
+R,Rick Santorum,Poverty,0,0
+R,Rick Santorum,Iraq,0,0
+R,Rick Santorum,Hillary for America,0,0
+R,Rick Santorum,Transportation,0,0
+R,Rick Santorum,Human Rights,0,0
+R,Rick Santorum,Natural Disasters,0,0
+R,Bobby Jindal,Taxes,0,0
+R,Bobby Jindal,Candidate Biography,0,0
+R,Bobby Jindal,Veterans,0,0
+R,Bobby Jindal,Children,0,0
+R,Bobby Jindal,Immigration,1,0
+R,Bobby Jindal,Guns,0,0
+R,Bobby Jindal,Women,0,0
+R,Bobby Jindal,Military,0,0
+R,Bobby Jindal,State Budget,0,0
+R,Bobby Jindal,Economy,0,0
+R,Bobby Jindal,Jobs,0,0
+R,Bobby Jindal,Federal Budget,1,0
+R,Bobby Jindal,Trade,0,0
+R,Bobby Jindal,Small Business,0,0
+R,Bobby Jindal,Terrorism,1,0
+R,Bobby Jindal,Homeland Security,0,0
+R,Bobby Jindal,Environment,0,0
+R,Bobby Jindal,Climate Change,0,0
+R,Bobby Jindal,Energy,0,0
+R,Bobby Jindal,Criminal Justice,0,0
+R,Bobby Jindal,Health Care,0,0
+R,Bobby Jindal,Campaign Finance,0,0
+R,Bobby Jindal,Education,0,0
+R,Bobby Jindal,Debt,0,0
+R,Bobby Jindal,Foreign Policy,0,0
+R,Bobby Jindal,Housing,0,0
+R,Bobby Jindal,Nuclear,0,0
+R,Bobby Jindal,Infrastructure,0,0
+R,Bobby Jindal,China,0,0
+R,Bobby Jindal,Abortion,0,0
+R,Bobby Jindal,Police,0,0
+R,Bobby Jindal,Crime,0,0
+R,Bobby Jindal,Drugs,0,0
+R,Bobby Jindal,Gays and Lesbians,0,0
+R,Bobby Jindal,Religion,1,0
+R,Bobby Jindal,Islam,1,0
+R,Bobby Jindal,Disability,0,0
+R,Bobby Jindal,Families,0,0
+R,Bobby Jindal,Elections,1,0
+R,Bobby Jindal,Voting Record,0,0
+R,Bobby Jindal,Israel,0,0
+R,Bobby Jindal,Polls and Public Opinion,0,0
+R,Bobby Jindal,Civil Rights,0,0
+R,Bobby Jindal,Supreme Court,0,0
+R,Bobby Jindal,Social Security,0,0
+R,Bobby Jindal,Medicare,0,0
+R,Bobby Jindal,Hillary Clinton,0,0
+R,Bobby Jindal,Job Accomplishments,0,0
+R,Bobby Jindal,Medicaid,0,0
+R,Bobby Jindal,Corporations,0,0
+R,Bobby Jindal,Negative Campaigning,0,0
+R,Bobby Jindal,State Finances,0,0
+R,Bobby Jindal,Income,0,0
+R,Bobby Jindal,Government Regulation,0,0
+R,Bobby Jindal,Public Safety,0,0
+R,Bobby Jindal,Workers,0,0
+R,Bobby Jindal,Labor,0,0
+R,Bobby Jindal,Financial Regulation,0,0
+R,Bobby Jindal,Deficit,0,0
+R,Bobby Jindal,Legal Issues,0,0
+R,Bobby Jindal,States,0,0
+R,Bobby Jindal,Washington D.C.,0,0
+R,Bobby Jindal,Public Health,0,0
+R,Bobby Jindal,Regulation,0,0
+R,Bobby Jindal,Marriage,0,0
+R,Bobby Jindal,Bipartisanship,0,0
+R,Bobby Jindal,Congress,0,0
+R,Bobby Jindal,Debates,0,0
+R,Bobby Jindal,Government Efficiency,0,0
+R,Bobby Jindal,Patriotism,0,0
+R,Bobby Jindal,Unions,0,0
+R,Bobby Jindal,Iran,0,0
+R,Bobby Jindal,National Security,0,0
+R,Bobby Jindal,Poverty,0,0
+R,Bobby Jindal,Iraq,0,0
+R,Bobby Jindal,Hillary for America,0,0
+R,Bobby Jindal,Transportation,0,0
+R,Bobby Jindal,Human Rights,0,0
+R,Bobby Jindal,Natural Disasters,0,0
+R,Carly Fiorina,Taxes,1,147
+R,Carly Fiorina,Candidate Biography,6,144
+R,Carly Fiorina,Veterans,0,0
+R,Carly Fiorina,Children,1,3
+R,Carly Fiorina,Immigration,0,0
+R,Carly Fiorina,Guns,0,0
+R,Carly Fiorina,Women,1,6
+R,Carly Fiorina,Military,0,0
+R,Carly Fiorina,State Budget,0,0
+R,Carly Fiorina,Economy,1,147
+R,Carly Fiorina,Jobs,0,0
+R,Carly Fiorina,Federal Budget,0,0
+R,Carly Fiorina,Trade,0,0
+R,Carly Fiorina,Small Business,1,147
+R,Carly Fiorina,Terrorism,0,0
+R,Carly Fiorina,Homeland Security,0,0
+R,Carly Fiorina,Environment,0,0
+R,Carly Fiorina,Climate Change,0,0
+R,Carly Fiorina,Energy,0,0
+R,Carly Fiorina,Criminal Justice,0,0
+R,Carly Fiorina,Health Care,1,86
+R,Carly Fiorina,Campaign Finance,0,0
+R,Carly Fiorina,Education,0,0
+R,Carly Fiorina,Debt,0,0
+R,Carly Fiorina,Foreign Policy,0,0
+R,Carly Fiorina,Housing,0,0
+R,Carly Fiorina,Nuclear,0,0
+R,Carly Fiorina,Infrastructure,0,0
+R,Carly Fiorina,China,0,0
+R,Carly Fiorina,Abortion,1,0
+R,Carly Fiorina,Police,0,0
+R,Carly Fiorina,Crime,0,0
+R,Carly Fiorina,Drugs,0,0
+R,Carly Fiorina,Gays and Lesbians,0,0
+R,Carly Fiorina,Religion,0,0
+R,Carly Fiorina,Islam,0,0
+R,Carly Fiorina,Disability,0,0
+R,Carly Fiorina,Families,0,0
+R,Carly Fiorina,Elections,2,91
+R,Carly Fiorina,Voting Record,1,0
+R,Carly Fiorina,Israel,0,0
+R,Carly Fiorina,Polls and Public Opinion,0,0
+R,Carly Fiorina,Civil Rights,0,0
+R,Carly Fiorina,Supreme Court,0,0
+R,Carly Fiorina,Social Security,0,0
+R,Carly Fiorina,Medicare,0,0
+R,Carly Fiorina,Hillary Clinton,0,0
+R,Carly Fiorina,Job Accomplishments,0,0
+R,Carly Fiorina,Medicaid,0,0
+R,Carly Fiorina,Corporations,0,0
+R,Carly Fiorina,Negative Campaigning,0,0
+R,Carly Fiorina,State Finances,0,0
+R,Carly Fiorina,Income,0,0
+R,Carly Fiorina,Government Regulation,0,0
+R,Carly Fiorina,Public Safety,0,0
+R,Carly Fiorina,Workers,0,0
+R,Carly Fiorina,Labor,0,0
+R,Carly Fiorina,Financial Regulation,0,0
+R,Carly Fiorina,Deficit,0,0
+R,Carly Fiorina,Legal Issues,0,0
+R,Carly Fiorina,States,0,0
+R,Carly Fiorina,Washington D.C.,0,0
+R,Carly Fiorina,Public Health,0,0
+R,Carly Fiorina,Regulation,0,0
+R,Carly Fiorina,Marriage,0,0
+R,Carly Fiorina,Bipartisanship,0,0
+R,Carly Fiorina,Congress,0,0
+R,Carly Fiorina,Debates,1,2
+R,Carly Fiorina,Government Efficiency,1,3
+R,Carly Fiorina,Patriotism,0,0
+R,Carly Fiorina,Unions,0,0
+R,Carly Fiorina,Iran,0,0
+R,Carly Fiorina,National Security,0,0
+R,Carly Fiorina,Poverty,0,0
+R,Carly Fiorina,Iraq,0,0
+R,Carly Fiorina,Hillary for America,0,0
+R,Carly Fiorina,Transportation,0,0
+R,Carly Fiorina,Human Rights,0,0
+R,Carly Fiorina,Natural Disasters,0,0
+R,Rick Perry,Taxes,0,0
+R,Rick Perry,Candidate Biography,0,0
+R,Rick Perry,Veterans,0,0
+R,Rick Perry,Children,1,0
+R,Rick Perry,Immigration,2,0
+R,Rick Perry,Guns,1,0
+R,Rick Perry,Women,0,0
+R,Rick Perry,Military,2,0
+R,Rick Perry,State Budget,0,0
+R,Rick Perry,Economy,1,0
+R,Rick Perry,Jobs,4,0
+R,Rick Perry,Federal Budget,0,0
+R,Rick Perry,Trade,0,0
+R,Rick Perry,Small Business,0,0
+R,Rick Perry,Terrorism,1,0
+R,Rick Perry,Homeland Security,5,0
+R,Rick Perry,Environment,0,0
+R,Rick Perry,Climate Change,0,0
+R,Rick Perry,Energy,0,0
+R,Rick Perry,Criminal Justice,0,0
+R,Rick Perry,Health Care,2,0
+R,Rick Perry,Campaign Finance,0,0
+R,Rick Perry,Education,1,0
+R,Rick Perry,Debt,1,0
+R,Rick Perry,Foreign Policy,1,2
+R,Rick Perry,Housing,0,0
+R,Rick Perry,Nuclear,0,0
+R,Rick Perry,Infrastructure,0,0
+R,Rick Perry,China,0,0
+R,Rick Perry,Abortion,1,0
+R,Rick Perry,Police,0,0
+R,Rick Perry,Crime,0,0
+R,Rick Perry,Drugs,0,0
+R,Rick Perry,Gays and Lesbians,0,0
+R,Rick Perry,Religion,1,0
+R,Rick Perry,Islam,0,0
+R,Rick Perry,Disability,0,0
+R,Rick Perry,Families,2,0
+R,Rick Perry,Elections,0,0
+R,Rick Perry,Voting Record,0,0
+R,Rick Perry,Israel,0,0
+R,Rick Perry,Polls and Public Opinion,0,0
+R,Rick Perry,Civil Rights,0,0
+R,Rick Perry,Supreme Court,0,0
+R,Rick Perry,Social Security,0,0
+R,Rick Perry,Medicare,0,0
+R,Rick Perry,Hillary Clinton,0,0
+R,Rick Perry,Job Accomplishments,4,2
+R,Rick Perry,Medicaid,1,0
+R,Rick Perry,Corporations,0,0
+R,Rick Perry,Negative Campaigning,0,0
+R,Rick Perry,State Finances,0,0
+R,Rick Perry,Income,0,0
+R,Rick Perry,Government Regulation,0,0
+R,Rick Perry,Public Safety,0,0
+R,Rick Perry,Workers,0,0
+R,Rick Perry,Labor,0,0
+R,Rick Perry,Financial Regulation,0,0
+R,Rick Perry,Deficit,0,0
+R,Rick Perry,Legal Issues,0,0
+R,Rick Perry,States,0,0
+R,Rick Perry,Washington D.C.,0,0
+R,Rick Perry,Public Health,0,0
+R,Rick Perry,Regulation,0,0
+R,Rick Perry,Marriage,0,0
+R,Rick Perry,Bipartisanship,0,0
+R,Rick Perry,Congress,0,0
+R,Rick Perry,Debates,0,0
+R,Rick Perry,Government Efficiency,2,0
+R,Rick Perry,Patriotism,0,0
+R,Rick Perry,Unions,0,0
+R,Rick Perry,Iran,0,0
+R,Rick Perry,National Security,0,0
+R,Rick Perry,Poverty,0,0
+R,Rick Perry,Iraq,0,0
+R,Rick Perry,Hillary for America,0,0
+R,Rick Perry,Transportation,0,0
+R,Rick Perry,Human Rights,0,0
+R,Rick Perry,Natural Disasters,0,0
+R,Mike Huckabee,Taxes,1,1
+R,Mike Huckabee,Candidate Biography,1,0
+R,Mike Huckabee,Veterans,0,0
+R,Mike Huckabee,Children,0,0
+R,Mike Huckabee,Immigration,0,0
+R,Mike Huckabee,Guns,0,0
+R,Mike Huckabee,Women,0,0
+R,Mike Huckabee,Military,0,0
+R,Mike Huckabee,State Budget,0,0
+R,Mike Huckabee,Economy,0,0
+R,Mike Huckabee,Jobs,0,0
+R,Mike Huckabee,Federal Budget,0,0
+R,Mike Huckabee,Trade,0,0
+R,Mike Huckabee,Small Business,0,0
+R,Mike Huckabee,Terrorism,0,0
+R,Mike Huckabee,Homeland Security,0,0
+R,Mike Huckabee,Environment,0,0
+R,Mike Huckabee,Climate Change,0,0
+R,Mike Huckabee,Energy,0,0
+R,Mike Huckabee,Criminal Justice,0,0
+R,Mike Huckabee,Health Care,0,0
+R,Mike Huckabee,Campaign Finance,0,0
+R,Mike Huckabee,Education,0,0
+R,Mike Huckabee,Debt,0,0
+R,Mike Huckabee,Foreign Policy,0,0
+R,Mike Huckabee,Housing,0,0
+R,Mike Huckabee,Nuclear,0,0
+R,Mike Huckabee,Infrastructure,0,0
+R,Mike Huckabee,China,0,0
+R,Mike Huckabee,Abortion,2,248
+R,Mike Huckabee,Police,0,0
+R,Mike Huckabee,Crime,1,0
+R,Mike Huckabee,Drugs,0,0
+R,Mike Huckabee,Gays and Lesbians,0,0
+R,Mike Huckabee,Religion,3,658
+R,Mike Huckabee,Islam,0,0
+R,Mike Huckabee,Disability,0,0
+R,Mike Huckabee,Families,1,1
+R,Mike Huckabee,Elections,0,0
+R,Mike Huckabee,Voting Record,1,272
+R,Mike Huckabee,Israel,0,0
+R,Mike Huckabee,Polls and Public Opinion,0,0
+R,Mike Huckabee,Civil Rights,0,0
+R,Mike Huckabee,Supreme Court,0,0
+R,Mike Huckabee,Social Security,0,0
+R,Mike Huckabee,Medicare,0,0
+R,Mike Huckabee,Hillary Clinton,0,0
+R,Mike Huckabee,Job Accomplishments,1,249
+R,Mike Huckabee,Medicaid,0,0
+R,Mike Huckabee,Corporations,0,0
+R,Mike Huckabee,Negative Campaigning,3,272
+R,Mike Huckabee,State Finances,0,0
+R,Mike Huckabee,Income,0,0
+R,Mike Huckabee,Government Regulation,0,0
+R,Mike Huckabee,Public Safety,0,0
+R,Mike Huckabee,Workers,0,0
+R,Mike Huckabee,Labor,0,0
+R,Mike Huckabee,Financial Regulation,0,0
+R,Mike Huckabee,Deficit,0,0
+R,Mike Huckabee,Legal Issues,0,0
+R,Mike Huckabee,States,0,0
+R,Mike Huckabee,Washington D.C.,0,0
+R,Mike Huckabee,Public Health,0,0
+R,Mike Huckabee,Regulation,0,0
+R,Mike Huckabee,Marriage,1,1
+R,Mike Huckabee,Bipartisanship,0,0
+R,Mike Huckabee,Congress,0,0
+R,Mike Huckabee,Debates,0,0
+R,Mike Huckabee,Government Efficiency,0,0
+R,Mike Huckabee,Patriotism,1,0
+R,Mike Huckabee,Unions,0,0
+R,Mike Huckabee,Iran,0,0
+R,Mike Huckabee,National Security,0,0
+R,Mike Huckabee,Poverty,0,0
+R,Mike Huckabee,Iraq,0,0
+R,Mike Huckabee,Hillary for America,0,0
+R,Mike Huckabee,Transportation,0,0
+R,Mike Huckabee,Human Rights,0,0
+R,Mike Huckabee,Natural Disasters,0,0
+R,Scott Walker,Taxes,1,0
+R,Scott Walker,Candidate Biography,1,0
+R,Scott Walker,Veterans,0,0
+R,Scott Walker,Children,0,0
+R,Scott Walker,Immigration,0,0
+R,Scott Walker,Guns,0,0
+R,Scott Walker,Women,0,0
+R,Scott Walker,Military,0,0
+R,Scott Walker,State Budget,0,0
+R,Scott Walker,Economy,0,0
+R,Scott Walker,Jobs,1,0
+R,Scott Walker,Federal Budget,0,0
+R,Scott Walker,Trade,0,0
+R,Scott Walker,Small Business,0,0
+R,Scott Walker,Terrorism,0,0
+R,Scott Walker,Homeland Security,0,0
+R,Scott Walker,Environment,0,0
+R,Scott Walker,Climate Change,0,0
+R,Scott Walker,Energy,0,0
+R,Scott Walker,Criminal Justice,0,0
+R,Scott Walker,Health Care,0,0
+R,Scott Walker,Campaign Finance,0,0
+R,Scott Walker,Education,0,0
+R,Scott Walker,Debt,0,0
+R,Scott Walker,Foreign Policy,0,0
+R,Scott Walker,Housing,0,0
+R,Scott Walker,Nuclear,0,0
+R,Scott Walker,Infrastructure,0,0
+R,Scott Walker,China,0,0
+R,Scott Walker,Abortion,0,0
+R,Scott Walker,Police,0,0
+R,Scott Walker,Crime,0,0
+R,Scott Walker,Drugs,0,0
+R,Scott Walker,Gays and Lesbians,0,0
+R,Scott Walker,Religion,0,0
+R,Scott Walker,Islam,0,0
+R,Scott Walker,Disability,0,0
+R,Scott Walker,Families,0,0
+R,Scott Walker,Elections,0,0
+R,Scott Walker,Voting Record,0,0
+R,Scott Walker,Israel,0,0
+R,Scott Walker,Polls and Public Opinion,0,0
+R,Scott Walker,Civil Rights,0,0
+R,Scott Walker,Supreme Court,0,0
+R,Scott Walker,Social Security,0,0
+R,Scott Walker,Medicare,0,0
+R,Scott Walker,Hillary Clinton,0,0
+R,Scott Walker,Job Accomplishments,1,0
+R,Scott Walker,Medicaid,0,0
+R,Scott Walker,Corporations,0,0
+R,Scott Walker,Negative Campaigning,0,0
+R,Scott Walker,State Finances,0,0
+R,Scott Walker,Income,0,0
+R,Scott Walker,Government Regulation,0,0
+R,Scott Walker,Public Safety,0,0
+R,Scott Walker,Workers,0,0
+R,Scott Walker,Labor,0,0
+R,Scott Walker,Financial Regulation,0,0
+R,Scott Walker,Deficit,1,0
+R,Scott Walker,Legal Issues,0,0
+R,Scott Walker,States,0,0
+R,Scott Walker,Washington D.C.,0,0
+R,Scott Walker,Public Health,0,0
+R,Scott Walker,Regulation,0,0
+R,Scott Walker,Marriage,0,0
+R,Scott Walker,Bipartisanship,0,0
+R,Scott Walker,Congress,0,0
+R,Scott Walker,Debates,0,0
+R,Scott Walker,Government Efficiency,1,0
+R,Scott Walker,Patriotism,0,0
+R,Scott Walker,Unions,1,0
+R,Scott Walker,Iran,0,0
+R,Scott Walker,National Security,0,0
+R,Scott Walker,Poverty,0,0
+R,Scott Walker,Iraq,0,0
+R,Scott Walker,Hillary for America,0,0
+R,Scott Walker,Transportation,0,0
+R,Scott Walker,Human Rights,0,0
+R,Scott Walker,Natural Disasters,0,0
+R,Rand Paul,Taxes,1,0
+R,Rand Paul,Candidate Biography,1,0
+R,Rand Paul,Veterans,0,0
+R,Rand Paul,Children,0,0
+R,Rand Paul,Immigration,0,0
+R,Rand Paul,Guns,0,0
+R,Rand Paul,Women,0,0
+R,Rand Paul,Military,0,0
+R,Rand Paul,State Budget,0,0
+R,Rand Paul,Economy,0,0
+R,Rand Paul,Jobs,0,0
+R,Rand Paul,Federal Budget,0,0
+R,Rand Paul,Trade,0,0
+R,Rand Paul,Small Business,0,0
+R,Rand Paul,Terrorism,0,0
+R,Rand Paul,Homeland Security,0,0
+R,Rand Paul,Environment,0,0
+R,Rand Paul,Climate Change,0,0
+R,Rand Paul,Energy,0,0
+R,Rand Paul,Criminal Justice,0,0
+R,Rand Paul,Health Care,0,0
+R,Rand Paul,Campaign Finance,0,0
+R,Rand Paul,Education,0,0
+R,Rand Paul,Debt,0,0
+R,Rand Paul,Foreign Policy,0,0
+R,Rand Paul,Housing,0,0
+R,Rand Paul,Nuclear,0,0
+R,Rand Paul,Infrastructure,0,0
+R,Rand Paul,China,0,0
+R,Rand Paul,Abortion,0,0
+R,Rand Paul,Police,0,0
+R,Rand Paul,Crime,0,0
+R,Rand Paul,Drugs,0,0
+R,Rand Paul,Gays and Lesbians,0,0
+R,Rand Paul,Religion,0,0
+R,Rand Paul,Islam,0,0
+R,Rand Paul,Disability,0,0
+R,Rand Paul,Families,0,0
+R,Rand Paul,Elections,0,0
+R,Rand Paul,Voting Record,0,0
+R,Rand Paul,Israel,0,0
+R,Rand Paul,Polls and Public Opinion,0,0
+R,Rand Paul,Civil Rights,0,0
+R,Rand Paul,Supreme Court,0,0
+R,Rand Paul,Social Security,0,0
+R,Rand Paul,Medicare,0,0
+R,Rand Paul,Hillary Clinton,0,0
+R,Rand Paul,Job Accomplishments,0,0
+R,Rand Paul,Medicaid,0,0
+R,Rand Paul,Corporations,0,0
+R,Rand Paul,Negative Campaigning,0,0
+R,Rand Paul,State Finances,0,0
+R,Rand Paul,Income,0,0
+R,Rand Paul,Government Regulation,0,0
+R,Rand Paul,Public Safety,0,0
+R,Rand Paul,Workers,0,0
+R,Rand Paul,Labor,0,0
+R,Rand Paul,Financial Regulation,0,0
+R,Rand Paul,Deficit,0,0
+R,Rand Paul,Legal Issues,0,0
+R,Rand Paul,States,0,0
+R,Rand Paul,Washington D.C.,0,0
+R,Rand Paul,Public Health,0,0
+R,Rand Paul,Regulation,0,0
+R,Rand Paul,Marriage,0,0
+R,Rand Paul,Bipartisanship,0,0
+R,Rand Paul,Congress,0,0
+R,Rand Paul,Debates,0,0
+R,Rand Paul,Government Efficiency,0,0
+R,Rand Paul,Patriotism,0,0
+R,Rand Paul,Unions,0,0
+R,Rand Paul,Iran,0,0
+R,Rand Paul,National Security,0,0
+R,Rand Paul,Poverty,0,0
+R,Rand Paul,Iraq,0,0
+R,Rand Paul,Hillary for America,0,0
+R,Rand Paul,Transportation,0,0
+R,Rand Paul,Human Rights,0,0
+R,Rand Paul,Natural Disasters,0,0
+G,Jill Stein,Taxes,0,0
+G,Jill Stein,Candidate Biography,3,0
+G,Jill Stein,Veterans,0,0
+G,Jill Stein,Children,0,0
+G,Jill Stein,Immigration,1,0
+G,Jill Stein,Guns,0,0
+G,Jill Stein,Women,0,0
+G,Jill Stein,Military,1,0
+G,Jill Stein,State Budget,0,0
+G,Jill Stein,Economy,1,0
+G,Jill Stein,Jobs,2,0
+G,Jill Stein,Federal Budget,0,0
+G,Jill Stein,Trade,0,0
+G,Jill Stein,Small Business,0,0
+G,Jill Stein,Terrorism,0,0
+G,Jill Stein,Homeland Security,0,0
+G,Jill Stein,Environment,1,0
+G,Jill Stein,Climate Change,2,0
+G,Jill Stein,Energy,1,0
+G,Jill Stein,Criminal Justice,1,0
+G,Jill Stein,Health Care,1,0
+G,Jill Stein,Campaign Finance,1,0
+G,Jill Stein,Education,1,0
+G,Jill Stein,Debt,1,0
+G,Jill Stein,Foreign Policy,0,0
+G,Jill Stein,Housing,0,0
+G,Jill Stein,Nuclear,0,0
+G,Jill Stein,Infrastructure,0,0
+G,Jill Stein,China,0,0
+G,Jill Stein,Abortion,0,0
+G,Jill Stein,Police,0,0
+G,Jill Stein,Crime,0,0
+G,Jill Stein,Drugs,0,0
+G,Jill Stein,Gays and Lesbians,0,0
+G,Jill Stein,Religion,0,0
+G,Jill Stein,Islam,0,0
+G,Jill Stein,Disability,0,0
+G,Jill Stein,Families,0,0
+G,Jill Stein,Elections,0,0
+G,Jill Stein,Voting Record,0,0
+G,Jill Stein,Israel,0,0
+G,Jill Stein,Polls and Public Opinion,0,0
+G,Jill Stein,Civil Rights,0,0
+G,Jill Stein,Supreme Court,0,0
+G,Jill Stein,Social Security,0,0
+G,Jill Stein,Medicare,0,0
+G,Jill Stein,Hillary Clinton,0,0
+G,Jill Stein,Job Accomplishments,0,0
+G,Jill Stein,Medicaid,0,0
+G,Jill Stein,Corporations,0,0
+G,Jill Stein,Negative Campaigning,0,0
+G,Jill Stein,State Finances,0,0
+G,Jill Stein,Income,0,0
+G,Jill Stein,Government Regulation,0,0
+G,Jill Stein,Public Safety,0,0
+G,Jill Stein,Workers,0,0
+G,Jill Stein,Labor,0,0
+G,Jill Stein,Financial Regulation,0,0
+G,Jill Stein,Deficit,0,0
+G,Jill Stein,Legal Issues,0,0
+G,Jill Stein,States,0,0
+G,Jill Stein,Washington D.C.,0,0
+G,Jill Stein,Public Health,0,0
+G,Jill Stein,Regulation,0,0
+G,Jill Stein,Marriage,0,0
+G,Jill Stein,Bipartisanship,0,0
+G,Jill Stein,Congress,0,0
+G,Jill Stein,Debates,0,0
+G,Jill Stein,Government Efficiency,0,0
+G,Jill Stein,Patriotism,0,0
+G,Jill Stein,Unions,0,0
+G,Jill Stein,Iran,0,0
+G,Jill Stein,National Security,0,0
+G,Jill Stein,Poverty,0,0
+G,Jill Stein,Iraq,0,0
+G,Jill Stein,Hillary for America,0,0
+G,Jill Stein,Transportation,0,0
+G,Jill Stein,Human Rights,0,0
+G,Jill Stein,Natural Disasters,0,0
+G,all,Taxes,0,0
+G,all,Candidate Biography,3,0
+G,all,Veterans,0,0
+G,all,Children,0,0
+G,all,Immigration,1,0
+G,all,Guns,0,0
+G,all,Women,0,0
+G,all,Military,1,0
+G,all,State Budget,0,0
+G,all,Economy,1,0
+G,all,Jobs,2,0
+G,all,Federal Budget,0,0
+G,all,Trade,0,0
+G,all,Small Business,0,0
+G,all,Terrorism,0,0
+G,all,Homeland Security,0,0
+G,all,Environment,1,0
+G,all,Climate Change,2,0
+G,all,Energy,1,0
+G,all,Criminal Justice,1,0
+G,all,Health Care,1,0
+G,all,Campaign Finance,1,0
+G,all,Education,1,0
+G,all,Debt,1,0
+G,all,Foreign Policy,0,0
+G,all,Housing,0,0
+G,all,Nuclear,0,0
+G,all,Infrastructure,0,0
+G,all,China,0,0
+G,all,Abortion,0,0
+G,all,Police,0,0
+G,all,Crime,0,0
+G,all,Drugs,0,0
+G,all,Gays and Lesbians,0,0
+G,all,Religion,0,0
+G,all,Islam,0,0
+G,all,Disability,0,0
+G,all,Families,0,0
+G,all,Elections,0,0
+G,all,Voting Record,0,0
+G,all,Israel,0,0
+G,all,Polls and Public Opinion,0,0
+G,all,Civil Rights,0,0
+G,all,Supreme Court,0,0
+G,all,Social Security,0,0
+G,all,Medicare,0,0
+G,all,Hillary Clinton,0,0
+G,all,Job Accomplishments,0,0
+G,all,Medicaid,0,0
+G,all,Corporations,0,0
+G,all,Negative Campaigning,0,0
+G,all,State Finances,0,0
+G,all,Income,0,0
+G,all,Government Regulation,0,0
+G,all,Public Safety,0,0
+G,all,Workers,0,0
+G,all,Labor,0,0
+G,all,Financial Regulation,0,0
+G,all,Deficit,0,0
+G,all,Legal Issues,0,0
+G,all,States,0,0
+G,all,Washington D.C.,0,0
+G,all,Public Health,0,0
+G,all,Regulation,0,0
+G,all,Marriage,0,0
+G,all,Bipartisanship,0,0
+G,all,Congress,0,0
+G,all,Debates,0,0
+G,all,Government Efficiency,0,0
+G,all,Patriotism,0,0
+G,all,Unions,0,0
+G,all,Iran,0,0
+G,all,National Security,0,0
+G,all,Poverty,0,0
+G,all,Iraq,0,0
+G,all,Hillary for America,0,0
+G,all,Transportation,0,0
+G,all,Human Rights,0,0
+G,all,Natural Disasters,0,0

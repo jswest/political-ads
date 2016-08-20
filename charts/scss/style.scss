@@ -1,0 +1,172 @@
+$black: #373a3c;
+$dblue: #517693;
+$rred: #990000;
+$green: #488214;
+$bodygray: #eceeef;
+
+body {
+	background-color: $bodygray;
+}
+
+h1, h2, h3, h4, h5 {
+	font-family: "Playfair Display";
+}
+
+p {
+	font-family: "Times New Roman";
+}
+
+#primary-jumbotron {
+	text-align: center;
+	.lead {
+		font-family: "Playfair Display";
+		font-weight: 800;
+	}
+}
+
+#primary-header {
+	background: linear-gradient( to right, $dblue 0%, $rred 100% );
+	height: 2em;
+}
+
+#primary-content {
+	margin-top: 4em;
+}
+
+.viz {
+	width: 100%;
+	height: 500px;
+	.label {
+		fill: white;
+		font-family: "Source Sans Pro";
+		font-weight: 100;
+		letter-spacing: 3px;
+		text-transform: uppercase;
+		&.percent-label {
+			fill: $black;
+			font-weight: 800;
+		}
+	}
+	.democrat {
+		fill: $dblue;
+	}
+	.republican {
+		fill: $rred;
+	}
+	.axis {
+		.tick {
+			line {
+				stroke: #cccccc;
+			}
+		}
+	}
+	.domain {
+		stroke-width: 0;
+	}
+	.line {
+		fill: none;
+		stroke: #aaaaaa;
+		stroke-width: 1px;
+		&.democrat {
+			fill: none;
+			&.hovered {
+				opacity: 0.75;
+				stroke: lighten( $dblue, 25% );
+				stroke-width: 2px;
+			}
+			&.active {
+				opacity: 1;
+				stroke: $dblue;
+				stroke-width: 3px;
+			}
+
+		}
+		&.republican {
+			fill: none;
+			&.hovered {
+				opacity: 0.75;
+				stroke: lighten( $rred, 25% );
+				stroke-width: 2px;
+			}
+			&.active {
+				opacity: 1;
+				stroke: $rred;
+				stroke-width: 2px;
+			}
+		}
+		&.subject {
+			&.hovered {
+				opacity: 0.75;
+				stroke: lighten( $green, 25% );
+				stroke-width: 2px;
+			}
+			&.active {
+				opacity: 1;
+				stroke: $green;
+				stroke-width: 3px;
+			}
+		}
+	}
+}
+
+.viz-dropdown-active {
+	border-bottom: 1px dotted $black;
+	cursor: pointer;
+	font-family: "Source Sans Pro";
+	font-weight: 100;
+	letter-spacing: 0.2rem;
+	line-height: 2.5rem;
+	padding-left: 1em;
+	text-transform: uppercase;
+	height: 2.5rem;
+}
+.viz-dropdown {
+	display: none;
+	font-family: initial;
+	font-size: 0.75em;
+	position: absolute;
+	transform: translateX( -50% );
+	z-index: 2;
+	&.active  {
+		display: block;
+	}
+	li {
+		font-family: "Source Sans Pro";
+		font-weight: 100;
+		letter-spacing: 0.2rem;
+		list-style: none;
+		text-transform: uppercase;
+		.percent {
+			float: right;
+		}
+	}
+}
+
+.viz-control-sentence {
+	margin-bottom: 2em;
+	position: relative;
+	text-align: center;
+}
+.viz-control-explanation {
+	font-family: "Source Sans Pro";
+	font-size: 1em;
+	font-weight: 800;
+	letter-spacing: 0.2em;
+	margin-bottom: 2em;
+	text-align: center;
+	text-transform: uppercase;
+}
+#viz-control-sentence-subjects-subject,
+#viz-control-sentence-time-subjects-subject,
+#time-controls-candidate {
+	border-bottom: 1px dotted $black;
+	color: $green;
+	cursor: pointer;
+	font-weight: 800;
+}
+
+.viz-row {
+	border-top: 1px solid darken( $bodygray, 20% );
+	margin-top: 2em;
+	padding-top: 2em;
+}

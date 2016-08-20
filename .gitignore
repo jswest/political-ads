@@ -1,0 +1,4 @@
+.sass-cache/
+node_modules/
+/data/seed/ads.csv
+/data/seed/instances.csv

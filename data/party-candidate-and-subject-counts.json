@@ -1,0 +1,7324 @@
+{
+  "D": {
+    "Hillary Clinton": {
+      "Taxes": {
+        "ads": 11,
+        "air_count": 3690
+      },
+      "Candidate Biography": {
+        "ads": 73,
+        "air_count": 4061
+      },
+      "Veterans": {
+        "ads": 7,
+        "air_count": 2927
+      },
+      "Children": {
+        "ads": 20,
+        "air_count": 6335
+      },
+      "Immigration": {
+        "ads": 18,
+        "air_count": 1562
+      },
+      "Guns": {
+        "ads": 13,
+        "air_count": 3540
+      },
+      "Women": {
+        "ads": 35,
+        "air_count": 11739
+      },
+      "Military": {
+        "ads": 11,
+        "air_count": 3399
+      },
+      "State Budget": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Economy": {
+        "ads": 25,
+        "air_count": 11426
+      },
+      "Jobs": {
+        "ads": 14,
+        "air_count": 2688
+      },
+      "Federal Budget": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Trade": {
+        "ads": 3,
+        "air_count": 991
+      },
+      "Small Business": {
+        "ads": 2,
+        "air_count": 4
+      },
+      "Terrorism": {
+        "ads": 5,
+        "air_count": 1557
+      },
+      "Homeland Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Environment": {
+        "ads": 3,
+        "air_count": 232
+      },
+      "Climate Change": {
+        "ads": 3,
+        "air_count": 361
+      },
+      "Energy": {
+        "ads": 4,
+        "air_count": 914
+      },
+      "Criminal Justice": {
+        "ads": 4,
+        "air_count": 937
+      },
+      "Health Care": {
+        "ads": 28,
+        "air_count": 16936
+      },
+      "Campaign Finance": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Education": {
+        "ads": 18,
+        "air_count": 2444
+      },
+      "Debt": {
+        "ads": 5,
+        "air_count": 1682
+      },
+      "Foreign Policy": {
+        "ads": 23,
+        "air_count": 7564
+      },
+      "Housing": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Nuclear": {
+        "ads": 8,
+        "air_count": 3137
+      },
+      "Infrastructure": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "China": {
+        "ads": 4,
+        "air_count": 1449
+      },
+      "Abortion": {
+        "ads": 10,
+        "air_count": 3953
+      },
+      "Police": {
+        "ads": 1,
+        "air_count": 2
+      },
+      "Crime": {
+        "ads": 1,
+        "air_count": 4
+      },
+      "Drugs": {
+        "ads": 2,
+        "air_count": 16
+      },
+      "Gays and Lesbians": {
+        "ads": 5,
+        "air_count": 5
+      },
+      "Religion": {
+        "ads": 3,
+        "air_count": 66
+      },
+      "Islam": {
+        "ads": 3,
+        "air_count": 581
+      },
+      "Disability": {
+        "ads": 3,
+        "air_count": 24
+      },
+      "Families": {
+        "ads": 13,
+        "air_count": 805
+      },
+      "Elections": {
+        "ads": 2,
+        "air_count": 7
+      },
+      "Voting Record": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Israel": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Polls and Public Opinion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Civil Rights": {
+        "ads": 6,
+        "air_count": 1319
+      },
+      "Supreme Court": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Social Security": {
+        "ads": 3,
+        "air_count": 4640
+      },
+      "Medicare": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary Clinton": {
+        "ads": 1,
+        "air_count": 3
+      },
+      "Job Accomplishments": {
+        "ads": 10,
+        "air_count": 3848
+      },
+      "Medicaid": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Corporations": {
+        "ads": 3,
+        "air_count": 411
+      },
+      "Negative Campaigning": {
+        "ads": 2,
+        "air_count": 256
+      },
+      "State Finances": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Income": {
+        "ads": 7,
+        "air_count": 4259
+      },
+      "Government Regulation": {
+        "ads": 3,
+        "air_count": 774
+      },
+      "Public Safety": {
+        "ads": 3,
+        "air_count": 722
+      },
+      "Workers": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Labor": {
+        "ads": 2,
+        "air_count": 230
+      },
+      "Financial Regulation": {
+        "ads": 1,
+        "air_count": 211
+      },
+      "Deficit": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Legal Issues": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "States": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Washington D.C.": {
+        "ads": 2,
+        "air_count": 6
+      },
+      "Public Health": {
+        "ads": 2,
+        "air_count": 11
+      },
+      "Regulation": {
+        "ads": 3,
+        "air_count": 1
+      },
+      "Marriage": {
+        "ads": 2,
+        "air_count": 300
+      },
+      "Bipartisanship": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Congress": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Debates": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Government Efficiency": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Patriotism": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Unions": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Iran": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "National Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Poverty": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iraq": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary for America": {
+        "ads": 1,
+        "air_count": 3
+      },
+      "Transportation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Human Rights": {
+        "ads": 1,
+        "air_count": 1360
+      },
+      "Natural Disasters": {
+        "ads": 0,
+        "air_count": 0
+      }
+    },
+    "all": {
+      "Taxes": {
+        "ads": 13,
+        "air_count": 8717
+      },
+      "Candidate Biography": {
+        "ads": 84,
+        "air_count": 4331
+      },
+      "Veterans": {
+        "ads": 14,
+        "air_count": 6687
+      },
+      "Children": {
+        "ads": 25,
+        "air_count": 6364
+      },
+      "Immigration": {
+        "ads": 24,
+        "air_count": 1565
+      },
+      "Guns": {
+        "ads": 18,
+        "air_count": 3540
+      },
+      "Women": {
+        "ads": 42,
+        "air_count": 18814
+      },
+      "Military": {
+        "ads": 14,
+        "air_count": 3876
+      },
+      "State Budget": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Economy": {
+        "ads": 48,
+        "air_count": 23769
+      },
+      "Jobs": {
+        "ads": 25,
+        "air_count": 8839
+      },
+      "Federal Budget": {
+        "ads": 2,
+        "air_count": 4
+      },
+      "Trade": {
+        "ads": 6,
+        "air_count": 1464
+      },
+      "Small Business": {
+        "ads": 2,
+        "air_count": 4
+      },
+      "Terrorism": {
+        "ads": 7,
+        "air_count": 2033
+      },
+      "Homeland Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Environment": {
+        "ads": 7,
+        "air_count": 926
+      },
+      "Climate Change": {
+        "ads": 7,
+        "air_count": 993
+      },
+      "Energy": {
+        "ads": 7,
+        "air_count": 1546
+      },
+      "Criminal Justice": {
+        "ads": 9,
+        "air_count": 1399
+      },
+      "Health Care": {
+        "ads": 36,
+        "air_count": 23459
+      },
+      "Campaign Finance": {
+        "ads": 9,
+        "air_count": 8821
+      },
+      "Education": {
+        "ads": 28,
+        "air_count": 4961
+      },
+      "Debt": {
+        "ads": 7,
+        "air_count": 1682
+      },
+      "Foreign Policy": {
+        "ads": 24,
+        "air_count": 8037
+      },
+      "Housing": {
+        "ads": 2,
+        "air_count": 310
+      },
+      "Nuclear": {
+        "ads": 8,
+        "air_count": 3137
+      },
+      "Infrastructure": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "China": {
+        "ads": 6,
+        "air_count": 1896
+      },
+      "Abortion": {
+        "ads": 13,
+        "air_count": 3965
+      },
+      "Police": {
+        "ads": 1,
+        "air_count": 2
+      },
+      "Crime": {
+        "ads": 1,
+        "air_count": 4
+      },
+      "Drugs": {
+        "ads": 2,
+        "air_count": 16
+      },
+      "Gays and Lesbians": {
+        "ads": 9,
+        "air_count": 5
+      },
+      "Religion": {
+        "ads": 3,
+        "air_count": 66
+      },
+      "Islam": {
+        "ads": 3,
+        "air_count": 581
+      },
+      "Disability": {
+        "ads": 3,
+        "air_count": 24
+      },
+      "Families": {
+        "ads": 19,
+        "air_count": 3317
+      },
+      "Elections": {
+        "ads": 8,
+        "air_count": 23
+      },
+      "Voting Record": {
+        "ads": 5,
+        "air_count": 497
+      },
+      "Israel": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Polls and Public Opinion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Civil Rights": {
+        "ads": 13,
+        "air_count": 2224
+      },
+      "Supreme Court": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Social Security": {
+        "ads": 7,
+        "air_count": 8222
+      },
+      "Medicare": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary Clinton": {
+        "ads": 1,
+        "air_count": 3
+      },
+      "Job Accomplishments": {
+        "ads": 16,
+        "air_count": 3881
+      },
+      "Medicaid": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Corporations": {
+        "ads": 4,
+        "air_count": 493
+      },
+      "Negative Campaigning": {
+        "ads": 5,
+        "air_count": 297
+      },
+      "State Finances": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Income": {
+        "ads": 11,
+        "air_count": 4259
+      },
+      "Government Regulation": {
+        "ads": 8,
+        "air_count": 783
+      },
+      "Public Safety": {
+        "ads": 3,
+        "air_count": 722
+      },
+      "Workers": {
+        "ads": 7,
+        "air_count": 260
+      },
+      "Labor": {
+        "ads": 4,
+        "air_count": 233
+      },
+      "Financial Regulation": {
+        "ads": 4,
+        "air_count": 2796
+      },
+      "Deficit": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Legal Issues": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "States": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Washington D.C.": {
+        "ads": 2,
+        "air_count": 6
+      },
+      "Public Health": {
+        "ads": 2,
+        "air_count": 11
+      },
+      "Regulation": {
+        "ads": 3,
+        "air_count": 1
+      },
+      "Marriage": {
+        "ads": 4,
+        "air_count": 300
+      },
+      "Bipartisanship": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Congress": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Debates": {
+        "ads": 1,
+        "air_count": 18
+      },
+      "Government Efficiency": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Patriotism": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Unions": {
+        "ads": 2,
+        "air_count": 0
+      },
+      "Iran": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "National Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Poverty": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iraq": {
+        "ads": 2,
+        "air_count": 473
+      },
+      "Hillary for America": {
+        "ads": 1,
+        "air_count": 3
+      },
+      "Transportation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Human Rights": {
+        "ads": 1,
+        "air_count": 1360
+      },
+      "Natural Disasters": {
+        "ads": 0,
+        "air_count": 0
+      }
+    },
+    "Bernie Sanders": {
+      "Taxes": {
+        "ads": 2,
+        "air_count": 5027
+      },
+      "Candidate Biography": {
+        "ads": 9,
+        "air_count": 264
+      },
+      "Veterans": {
+        "ads": 7,
+        "air_count": 3760
+      },
+      "Children": {
+        "ads": 4,
+        "air_count": 29
+      },
+      "Immigration": {
+        "ads": 4,
+        "air_count": 3
+      },
+      "Guns": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Women": {
+        "ads": 7,
+        "air_count": 7075
+      },
+      "Military": {
+        "ads": 3,
+        "air_count": 477
+      },
+      "State Budget": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Economy": {
+        "ads": 20,
+        "air_count": 12343
+      },
+      "Jobs": {
+        "ads": 8,
+        "air_count": 6151
+      },
+      "Federal Budget": {
+        "ads": 2,
+        "air_count": 4
+      },
+      "Trade": {
+        "ads": 3,
+        "air_count": 473
+      },
+      "Small Business": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Terrorism": {
+        "ads": 2,
+        "air_count": 476
+      },
+      "Homeland Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Environment": {
+        "ads": 4,
+        "air_count": 694
+      },
+      "Climate Change": {
+        "ads": 3,
+        "air_count": 632
+      },
+      "Energy": {
+        "ads": 3,
+        "air_count": 632
+      },
+      "Criminal Justice": {
+        "ads": 5,
+        "air_count": 462
+      },
+      "Health Care": {
+        "ads": 8,
+        "air_count": 6523
+      },
+      "Campaign Finance": {
+        "ads": 9,
+        "air_count": 8821
+      },
+      "Education": {
+        "ads": 7,
+        "air_count": 2517
+      },
+      "Debt": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Foreign Policy": {
+        "ads": 1,
+        "air_count": 473
+      },
+      "Housing": {
+        "ads": 2,
+        "air_count": 310
+      },
+      "Nuclear": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Infrastructure": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "China": {
+        "ads": 2,
+        "air_count": 447
+      },
+      "Abortion": {
+        "ads": 3,
+        "air_count": 12
+      },
+      "Police": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Crime": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Drugs": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Gays and Lesbians": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Religion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Islam": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Disability": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Families": {
+        "ads": 6,
+        "air_count": 2512
+      },
+      "Elections": {
+        "ads": 4,
+        "air_count": 0
+      },
+      "Voting Record": {
+        "ads": 5,
+        "air_count": 497
+      },
+      "Israel": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Polls and Public Opinion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Civil Rights": {
+        "ads": 7,
+        "air_count": 905
+      },
+      "Supreme Court": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Social Security": {
+        "ads": 4,
+        "air_count": 3582
+      },
+      "Medicare": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary Clinton": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Job Accomplishments": {
+        "ads": 2,
+        "air_count": 10
+      },
+      "Medicaid": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Corporations": {
+        "ads": 1,
+        "air_count": 82
+      },
+      "Negative Campaigning": {
+        "ads": 1,
+        "air_count": 18
+      },
+      "State Finances": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Income": {
+        "ads": 3,
+        "air_count": 0
+      },
+      "Government Regulation": {
+        "ads": 5,
+        "air_count": 9
+      },
+      "Public Safety": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Workers": {
+        "ads": 6,
+        "air_count": 260
+      },
+      "Labor": {
+        "ads": 2,
+        "air_count": 3
+      },
+      "Financial Regulation": {
+        "ads": 3,
+        "air_count": 2585
+      },
+      "Deficit": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Legal Issues": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "States": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Washington D.C.": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Public Health": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Marriage": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Bipartisanship": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Congress": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Debates": {
+        "ads": 1,
+        "air_count": 18
+      },
+      "Government Efficiency": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Patriotism": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Unions": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iran": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "National Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Poverty": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iraq": {
+        "ads": 1,
+        "air_count": 473
+      },
+      "Hillary for America": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Transportation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Human Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Natural Disasters": {
+        "ads": 0,
+        "air_count": 0
+      }
+    },
+    "Martin O'Malley": {
+      "Taxes": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Candidate Biography": {
+        "ads": 2,
+        "air_count": 6
+      },
+      "Veterans": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Children": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Immigration": {
+        "ads": 2,
+        "air_count": 0
+      },
+      "Guns": {
+        "ads": 5,
+        "air_count": 0
+      },
+      "Women": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Military": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "State Budget": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Economy": {
+        "ads": 3,
+        "air_count": 0
+      },
+      "Jobs": {
+        "ads": 3,
+        "air_count": 0
+      },
+      "Federal Budget": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Trade": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Small Business": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Terrorism": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Homeland Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Environment": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Climate Change": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Energy": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Criminal Justice": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Health Care": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Campaign Finance": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Education": {
+        "ads": 3,
+        "air_count": 0
+      },
+      "Debt": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Foreign Policy": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Housing": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Nuclear": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Infrastructure": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "China": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Abortion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Police": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Crime": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Drugs": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Gays and Lesbians": {
+        "ads": 3,
+        "air_count": 0
+      },
+      "Religion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Islam": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Disability": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Families": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Elections": {
+        "ads": 2,
+        "air_count": 16
+      },
+      "Voting Record": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Israel": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Polls and Public Opinion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Civil Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Supreme Court": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Social Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Medicare": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary Clinton": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Job Accomplishments": {
+        "ads": 4,
+        "air_count": 23
+      },
+      "Medicaid": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Corporations": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Negative Campaigning": {
+        "ads": 2,
+        "air_count": 23
+      },
+      "State Finances": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Income": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Government Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Public Safety": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Workers": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Labor": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Financial Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Deficit": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Legal Issues": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "States": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Washington D.C.": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Public Health": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Marriage": {
+        "ads": 2,
+        "air_count": 0
+      },
+      "Bipartisanship": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Congress": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Debates": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Government Efficiency": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Patriotism": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Unions": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Iran": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "National Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Poverty": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iraq": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Hillary for America": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Transportation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Human Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Natural Disasters": {
+        "ads": 0,
+        "air_count": 0
+      }
+    }
+  },
+  "L": {
+    "Gary Johnson": {
+      "Taxes": {
+        "ads": 2,
+        "air_count": 1
+      },
+      "Candidate Biography": {
+        "ads": 2,
+        "air_count": 0
+      },
+      "Veterans": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Children": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Immigration": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Guns": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Women": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Military": {
+        "ads": 2,
+        "air_count": 1
+      },
+      "State Budget": {
+        "ads": 2,
+        "air_count": 0
+      },
+      "Economy": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Jobs": {
+        "ads": 2,
+        "air_count": 0
+      },
+      "Federal Budget": {
+        "ads": 2,
+        "air_count": 0
+      },
+      "Trade": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Small Business": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Terrorism": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Homeland Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Environment": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Climate Change": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Energy": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Criminal Justice": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Health Care": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Campaign Finance": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Education": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Debt": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Foreign Policy": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Housing": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Nuclear": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Infrastructure": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "China": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Abortion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Police": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Crime": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Drugs": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Gays and Lesbians": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Religion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Islam": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Disability": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Families": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Elections": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Voting Record": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Israel": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Polls and Public Opinion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Civil Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Supreme Court": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Social Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Medicare": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary Clinton": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Job Accomplishments": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Medicaid": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Corporations": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Negative Campaigning": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "State Finances": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Income": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Government Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Public Safety": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Workers": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Labor": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Financial Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Deficit": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Legal Issues": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "States": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Washington D.C.": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Public Health": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Marriage": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Bipartisanship": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Congress": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Debates": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Government Efficiency": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Patriotism": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Unions": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iran": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "National Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Poverty": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iraq": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary for America": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Transportation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Human Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Natural Disasters": {
+        "ads": 0,
+        "air_count": 0
+      }
+    },
+    "all": {
+      "Taxes": {
+        "ads": 2,
+        "air_count": 1
+      },
+      "Candidate Biography": {
+        "ads": 2,
+        "air_count": 0
+      },
+      "Veterans": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Children": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Immigration": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Guns": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Women": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Military": {
+        "ads": 2,
+        "air_count": 1
+      },
+      "State Budget": {
+        "ads": 2,
+        "air_count": 0
+      },
+      "Economy": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Jobs": {
+        "ads": 2,
+        "air_count": 0
+      },
+      "Federal Budget": {
+        "ads": 2,
+        "air_count": 0
+      },
+      "Trade": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Small Business": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Terrorism": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Homeland Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Environment": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Climate Change": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Energy": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Criminal Justice": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Health Care": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Campaign Finance": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Education": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Debt": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Foreign Policy": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Housing": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Nuclear": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Infrastructure": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "China": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Abortion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Police": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Crime": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Drugs": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Gays and Lesbians": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Religion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Islam": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Disability": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Families": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Elections": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Voting Record": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Israel": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Polls and Public Opinion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Civil Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Supreme Court": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Social Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Medicare": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary Clinton": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Job Accomplishments": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Medicaid": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Corporations": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Negative Campaigning": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "State Finances": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Income": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Government Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Public Safety": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Workers": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Labor": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Financial Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Deficit": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Legal Issues": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "States": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Washington D.C.": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Public Health": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Marriage": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Bipartisanship": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Congress": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Debates": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Government Efficiency": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Patriotism": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Unions": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iran": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "National Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Poverty": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iraq": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary for America": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Transportation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Human Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Natural Disasters": {
+        "ads": 0,
+        "air_count": 0
+      }
+    }
+  },
+  "R": {
+    "Donald Trump": {
+      "Taxes": {
+        "ads": 7,
+        "air_count": 392
+      },
+      "Candidate Biography": {
+        "ads": 39,
+        "air_count": 3248
+      },
+      "Veterans": {
+        "ads": 5,
+        "air_count": 1461
+      },
+      "Children": {
+        "ads": 1,
+        "air_count": 73
+      },
+      "Immigration": {
+        "ads": 19,
+        "air_count": 7727
+      },
+      "Guns": {
+        "ads": 8,
+        "air_count": 1708
+      },
+      "Women": {
+        "ads": 6,
+        "air_count": 233
+      },
+      "Military": {
+        "ads": 5,
+        "air_count": 1464
+      },
+      "State Budget": {
+        "ads": 1,
+        "air_count": 276
+      },
+      "Economy": {
+        "ads": 11,
+        "air_count": 2889
+      },
+      "Jobs": {
+        "ads": 10,
+        "air_count": 1097
+      },
+      "Federal Budget": {
+        "ads": 1,
+        "air_count": 69
+      },
+      "Trade": {
+        "ads": 10,
+        "air_count": 1113
+      },
+      "Small Business": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Terrorism": {
+        "ads": 10,
+        "air_count": 2157
+      },
+      "Homeland Security": {
+        "ads": 3,
+        "air_count": 3
+      },
+      "Environment": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Climate Change": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Energy": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Criminal Justice": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Health Care": {
+        "ads": 11,
+        "air_count": 2033
+      },
+      "Campaign Finance": {
+        "ads": 5,
+        "air_count": 328
+      },
+      "Education": {
+        "ads": 3,
+        "air_count": 160
+      },
+      "Debt": {
+        "ads": 1,
+        "air_count": 69
+      },
+      "Foreign Policy": {
+        "ads": 2,
+        "air_count": 17
+      },
+      "Housing": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Nuclear": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Infrastructure": {
+        "ads": 1,
+        "air_count": 125
+      },
+      "China": {
+        "ads": 4,
+        "air_count": 21
+      },
+      "Abortion": {
+        "ads": 3,
+        "air_count": 99
+      },
+      "Police": {
+        "ads": 1,
+        "air_count": 73
+      },
+      "Crime": {
+        "ads": 1,
+        "air_count": 73
+      },
+      "Drugs": {
+        "ads": 1,
+        "air_count": 1
+      },
+      "Gays and Lesbians": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Religion": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Islam": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Disability": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Families": {
+        "ads": 1,
+        "air_count": 2
+      },
+      "Elections": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Voting Record": {
+        "ads": 3,
+        "air_count": 1955
+      },
+      "Israel": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Polls and Public Opinion": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Civil Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Supreme Court": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Social Security": {
+        "ads": 1,
+        "air_count": 311
+      },
+      "Medicare": {
+        "ads": 1,
+        "air_count": 311
+      },
+      "Hillary Clinton": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Job Accomplishments": {
+        "ads": 1,
+        "air_count": 1
+      },
+      "Medicaid": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Corporations": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Negative Campaigning": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "State Finances": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Income": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Government Regulation": {
+        "ads": 1,
+        "air_count": 3
+      },
+      "Public Safety": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Workers": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Labor": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Financial Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Deficit": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Legal Issues": {
+        "ads": 5,
+        "air_count": 974
+      },
+      "States": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Washington D.C.": {
+        "ads": 2,
+        "air_count": 28
+      },
+      "Public Health": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Marriage": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Bipartisanship": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Congress": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Debates": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Government Efficiency": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Patriotism": {
+        "ads": 1,
+        "air_count": 2130
+      },
+      "Unions": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iran": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "National Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Poverty": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iraq": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary for America": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Transportation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Human Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Natural Disasters": {
+        "ads": 0,
+        "air_count": 0
+      }
+    },
+    "all": {
+      "Taxes": {
+        "ads": 56,
+        "air_count": 4805
+      },
+      "Candidate Biography": {
+        "ads": 117,
+        "air_count": 10440
+      },
+      "Veterans": {
+        "ads": 7,
+        "air_count": 2056
+      },
+      "Children": {
+        "ads": 6,
+        "air_count": 76
+      },
+      "Immigration": {
+        "ads": 66,
+        "air_count": 15738
+      },
+      "Guns": {
+        "ads": 23,
+        "air_count": 2898
+      },
+      "Women": {
+        "ads": 13,
+        "air_count": 484
+      },
+      "Military": {
+        "ads": 36,
+        "air_count": 5787
+      },
+      "State Budget": {
+        "ads": 15,
+        "air_count": 1687
+      },
+      "Economy": {
+        "ads": 44,
+        "air_count": 5747
+      },
+      "Jobs": {
+        "ads": 52,
+        "air_count": 4204
+      },
+      "Federal Budget": {
+        "ads": 15,
+        "air_count": 697
+      },
+      "Trade": {
+        "ads": 14,
+        "air_count": 1566
+      },
+      "Small Business": {
+        "ads": 3,
+        "air_count": 149
+      },
+      "Terrorism": {
+        "ads": 54,
+        "air_count": 12736
+      },
+      "Homeland Security": {
+        "ads": 32,
+        "air_count": 5741
+      },
+      "Environment": {
+        "ads": 2,
+        "air_count": 2
+      },
+      "Climate Change": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Energy": {
+        "ads": 2,
+        "air_count": 52
+      },
+      "Criminal Justice": {
+        "ads": 2,
+        "air_count": 3
+      },
+      "Health Care": {
+        "ads": 50,
+        "air_count": 6798
+      },
+      "Campaign Finance": {
+        "ads": 11,
+        "air_count": 345
+      },
+      "Education": {
+        "ads": 15,
+        "air_count": 1144
+      },
+      "Debt": {
+        "ads": 9,
+        "air_count": 92
+      },
+      "Foreign Policy": {
+        "ads": 29,
+        "air_count": 4157
+      },
+      "Housing": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Nuclear": {
+        "ads": 4,
+        "air_count": 385
+      },
+      "Infrastructure": {
+        "ads": 1,
+        "air_count": 125
+      },
+      "China": {
+        "ads": 8,
+        "air_count": 547
+      },
+      "Abortion": {
+        "ads": 29,
+        "air_count": 2112
+      },
+      "Police": {
+        "ads": 2,
+        "air_count": 75
+      },
+      "Crime": {
+        "ads": 5,
+        "air_count": 76
+      },
+      "Drugs": {
+        "ads": 2,
+        "air_count": 1
+      },
+      "Gays and Lesbians": {
+        "ads": 4,
+        "air_count": 55
+      },
+      "Religion": {
+        "ads": 23,
+        "air_count": 2835
+      },
+      "Islam": {
+        "ads": 6,
+        "air_count": 599
+      },
+      "Disability": {
+        "ads": 2,
+        "air_count": 18
+      },
+      "Families": {
+        "ads": 8,
+        "air_count": 314
+      },
+      "Elections": {
+        "ads": 17,
+        "air_count": 838
+      },
+      "Voting Record": {
+        "ads": 34,
+        "air_count": 8038
+      },
+      "Israel": {
+        "ads": 4,
+        "air_count": 401
+      },
+      "Polls and Public Opinion": {
+        "ads": 3,
+        "air_count": 0
+      },
+      "Civil Rights": {
+        "ads": 4,
+        "air_count": 23
+      },
+      "Supreme Court": {
+        "ads": 15,
+        "air_count": 961
+      },
+      "Social Security": {
+        "ads": 4,
+        "air_count": 311
+      },
+      "Medicare": {
+        "ads": 6,
+        "air_count": 448
+      },
+      "Hillary Clinton": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Job Accomplishments": {
+        "ads": 53,
+        "air_count": 5272
+      },
+      "Medicaid": {
+        "ads": 3,
+        "air_count": 5
+      },
+      "Corporations": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Negative Campaigning": {
+        "ads": 24,
+        "air_count": 1114
+      },
+      "State Finances": {
+        "ads": 4,
+        "air_count": 843
+      },
+      "Income": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Government Regulation": {
+        "ads": 6,
+        "air_count": 7
+      },
+      "Public Safety": {
+        "ads": 1,
+        "air_count": 1
+      },
+      "Workers": {
+        "ads": 1,
+        "air_count": 595
+      },
+      "Labor": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Financial Regulation": {
+        "ads": 1,
+        "air_count": 138
+      },
+      "Deficit": {
+        "ads": 3,
+        "air_count": 310
+      },
+      "Legal Issues": {
+        "ads": 13,
+        "air_count": 1213
+      },
+      "States": {
+        "ads": 4,
+        "air_count": 575
+      },
+      "Washington D.C.": {
+        "ads": 20,
+        "air_count": 1207
+      },
+      "Public Health": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Regulation": {
+        "ads": 1,
+        "air_count": 259
+      },
+      "Marriage": {
+        "ads": 4,
+        "air_count": 156
+      },
+      "Bipartisanship": {
+        "ads": 10,
+        "air_count": 993
+      },
+      "Congress": {
+        "ads": 5,
+        "air_count": 230
+      },
+      "Debates": {
+        "ads": 6,
+        "air_count": 75
+      },
+      "Government Efficiency": {
+        "ads": 14,
+        "air_count": 23
+      },
+      "Patriotism": {
+        "ads": 8,
+        "air_count": 2146
+      },
+      "Unions": {
+        "ads": 4,
+        "air_count": 439
+      },
+      "Iran": {
+        "ads": 5,
+        "air_count": 588
+      },
+      "National Security": {
+        "ads": 2,
+        "air_count": 0
+      },
+      "Poverty": {
+        "ads": 1,
+        "air_count": 169
+      },
+      "Iraq": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary for America": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Transportation": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Human Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Natural Disasters": {
+        "ads": 1,
+        "air_count": 525
+      }
+    },
+    "Ted Cruz": {
+      "Taxes": {
+        "ads": 12,
+        "air_count": 419
+      },
+      "Candidate Biography": {
+        "ads": 26,
+        "air_count": 340
+      },
+      "Veterans": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Children": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Immigration": {
+        "ads": 35,
+        "air_count": 4939
+      },
+      "Guns": {
+        "ads": 11,
+        "air_count": 196
+      },
+      "Women": {
+        "ads": 1,
+        "air_count": 1
+      },
+      "Military": {
+        "ads": 7,
+        "air_count": 773
+      },
+      "State Budget": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Economy": {
+        "ads": 9,
+        "air_count": 154
+      },
+      "Jobs": {
+        "ads": 9,
+        "air_count": 237
+      },
+      "Federal Budget": {
+        "ads": 3,
+        "air_count": 62
+      },
+      "Trade": {
+        "ads": 3,
+        "air_count": 9
+      },
+      "Small Business": {
+        "ads": 2,
+        "air_count": 2
+      },
+      "Terrorism": {
+        "ads": 17,
+        "air_count": 3094
+      },
+      "Homeland Security": {
+        "ads": 11,
+        "air_count": 2155
+      },
+      "Environment": {
+        "ads": 2,
+        "air_count": 2
+      },
+      "Climate Change": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Energy": {
+        "ads": 2,
+        "air_count": 52
+      },
+      "Criminal Justice": {
+        "ads": 2,
+        "air_count": 3
+      },
+      "Health Care": {
+        "ads": 24,
+        "air_count": 1512
+      },
+      "Campaign Finance": {
+        "ads": 5,
+        "air_count": 17
+      },
+      "Education": {
+        "ads": 3,
+        "air_count": 273
+      },
+      "Debt": {
+        "ads": 3,
+        "air_count": 23
+      },
+      "Foreign Policy": {
+        "ads": 7,
+        "air_count": 1578
+      },
+      "Housing": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Nuclear": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Infrastructure": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "China": {
+        "ads": 2,
+        "air_count": 5
+      },
+      "Abortion": {
+        "ads": 15,
+        "air_count": 1603
+      },
+      "Police": {
+        "ads": 1,
+        "air_count": 2
+      },
+      "Crime": {
+        "ads": 2,
+        "air_count": 3
+      },
+      "Drugs": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Gays and Lesbians": {
+        "ads": 4,
+        "air_count": 55
+      },
+      "Religion": {
+        "ads": 11,
+        "air_count": 1372
+      },
+      "Islam": {
+        "ads": 2,
+        "air_count": 362
+      },
+      "Disability": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Families": {
+        "ads": 1,
+        "air_count": 50
+      },
+      "Elections": {
+        "ads": 3,
+        "air_count": 3
+      },
+      "Voting Record": {
+        "ads": 10,
+        "air_count": 807
+      },
+      "Israel": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Polls and Public Opinion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Civil Rights": {
+        "ads": 4,
+        "air_count": 23
+      },
+      "Supreme Court": {
+        "ads": 13,
+        "air_count": 539
+      },
+      "Social Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Medicare": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary Clinton": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Job Accomplishments": {
+        "ads": 6,
+        "air_count": 980
+      },
+      "Medicaid": {
+        "ads": 1,
+        "air_count": 4
+      },
+      "Corporations": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Negative Campaigning": {
+        "ads": 5,
+        "air_count": 1
+      },
+      "State Finances": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Income": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Government Regulation": {
+        "ads": 4,
+        "air_count": 3
+      },
+      "Public Safety": {
+        "ads": 1,
+        "air_count": 1
+      },
+      "Workers": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Labor": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Financial Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Deficit": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Legal Issues": {
+        "ads": 4,
+        "air_count": 141
+      },
+      "States": {
+        "ads": 4,
+        "air_count": 575
+      },
+      "Washington D.C.": {
+        "ads": 13,
+        "air_count": 1179
+      },
+      "Public Health": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Marriage": {
+        "ads": 3,
+        "air_count": 155
+      },
+      "Bipartisanship": {
+        "ads": 5,
+        "air_count": 86
+      },
+      "Congress": {
+        "ads": 2,
+        "air_count": 230
+      },
+      "Debates": {
+        "ads": 2,
+        "air_count": 0
+      },
+      "Government Efficiency": {
+        "ads": 4,
+        "air_count": 20
+      },
+      "Patriotism": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Unions": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iran": {
+        "ads": 2,
+        "air_count": 558
+      },
+      "National Security": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Poverty": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iraq": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary for America": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Transportation": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Human Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Natural Disasters": {
+        "ads": 0,
+        "air_count": 0
+      }
+    },
+    "John Kasich": {
+      "Taxes": {
+        "ads": 10,
+        "air_count": 1869
+      },
+      "Candidate Biography": {
+        "ads": 24,
+        "air_count": 798
+      },
+      "Veterans": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Children": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Immigration": {
+        "ads": 2,
+        "air_count": 6
+      },
+      "Guns": {
+        "ads": 1,
+        "air_count": 2
+      },
+      "Women": {
+        "ads": 3,
+        "air_count": 20
+      },
+      "Military": {
+        "ads": 8,
+        "air_count": 51
+      },
+      "State Budget": {
+        "ads": 7,
+        "air_count": 739
+      },
+      "Economy": {
+        "ads": 9,
+        "air_count": 922
+      },
+      "Jobs": {
+        "ads": 17,
+        "air_count": 1744
+      },
+      "Federal Budget": {
+        "ads": 8,
+        "air_count": 358
+      },
+      "Trade": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Small Business": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Terrorism": {
+        "ads": 2,
+        "air_count": 199
+      },
+      "Homeland Security": {
+        "ads": 3,
+        "air_count": 260
+      },
+      "Environment": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Climate Change": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Energy": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Criminal Justice": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Health Care": {
+        "ads": 3,
+        "air_count": 3
+      },
+      "Campaign Finance": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Education": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Debt": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Foreign Policy": {
+        "ads": 2,
+        "air_count": 5
+      },
+      "Housing": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Nuclear": {
+        "ads": 1,
+        "air_count": 14
+      },
+      "Infrastructure": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "China": {
+        "ads": 1,
+        "air_count": 150
+      },
+      "Abortion": {
+        "ads": 1,
+        "air_count": 14
+      },
+      "Police": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Crime": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Drugs": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Gays and Lesbians": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Religion": {
+        "ads": 3,
+        "air_count": 276
+      },
+      "Islam": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Disability": {
+        "ads": 1,
+        "air_count": 18
+      },
+      "Families": {
+        "ads": 2,
+        "air_count": 261
+      },
+      "Elections": {
+        "ads": 6,
+        "air_count": 733
+      },
+      "Voting Record": {
+        "ads": 5,
+        "air_count": 197
+      },
+      "Israel": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Polls and Public Opinion": {
+        "ads": 2,
+        "air_count": 0
+      },
+      "Civil Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Supreme Court": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Social Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Medicare": {
+        "ads": 1,
+        "air_count": 1
+      },
+      "Hillary Clinton": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Job Accomplishments": {
+        "ads": 22,
+        "air_count": 1645
+      },
+      "Medicaid": {
+        "ads": 1,
+        "air_count": 1
+      },
+      "Corporations": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Negative Campaigning": {
+        "ads": 11,
+        "air_count": 505
+      },
+      "State Finances": {
+        "ads": 2,
+        "air_count": 197
+      },
+      "Income": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Government Regulation": {
+        "ads": 1,
+        "air_count": 1
+      },
+      "Public Safety": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Workers": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Labor": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Financial Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Deficit": {
+        "ads": 2,
+        "air_count": 310
+      },
+      "Legal Issues": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "States": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Washington D.C.": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Public Health": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Regulation": {
+        "ads": 1,
+        "air_count": 259
+      },
+      "Marriage": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Bipartisanship": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Congress": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Debates": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Government Efficiency": {
+        "ads": 2,
+        "air_count": 0
+      },
+      "Patriotism": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Unions": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iran": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "National Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Poverty": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iraq": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary for America": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Transportation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Human Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Natural Disasters": {
+        "ads": 0,
+        "air_count": 0
+      }
+    },
+    "Chris Christie": {
+      "Taxes": {
+        "ads": 4,
+        "air_count": 115
+      },
+      "Candidate Biography": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Veterans": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Children": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Immigration": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Guns": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Women": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Military": {
+        "ads": 3,
+        "air_count": 0
+      },
+      "State Budget": {
+        "ads": 3,
+        "air_count": 115
+      },
+      "Economy": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Jobs": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Federal Budget": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Trade": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Small Business": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Terrorism": {
+        "ads": 9,
+        "air_count": 1537
+      },
+      "Homeland Security": {
+        "ads": 5,
+        "air_count": 559
+      },
+      "Environment": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Climate Change": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Energy": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Criminal Justice": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Health Care": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Campaign Finance": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Education": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Debt": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Foreign Policy": {
+        "ads": 5,
+        "air_count": 149
+      },
+      "Housing": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Nuclear": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Infrastructure": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "China": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Abortion": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Police": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Crime": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Drugs": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Gays and Lesbians": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Religion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Islam": {
+        "ads": 1,
+        "air_count": 237
+      },
+      "Disability": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Families": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Elections": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Voting Record": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Israel": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Polls and Public Opinion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Civil Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Supreme Court": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Social Security": {
+        "ads": 2,
+        "air_count": 0
+      },
+      "Medicare": {
+        "ads": 2,
+        "air_count": 0
+      },
+      "Hillary Clinton": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Job Accomplishments": {
+        "ads": 6,
+        "air_count": 435
+      },
+      "Medicaid": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Corporations": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Negative Campaigning": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "State Finances": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Income": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Government Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Public Safety": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Workers": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Labor": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Financial Regulation": {
+        "ads": 1,
+        "air_count": 138
+      },
+      "Deficit": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Legal Issues": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "States": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Washington D.C.": {
+        "ads": 4,
+        "air_count": 0
+      },
+      "Public Health": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Marriage": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Bipartisanship": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Congress": {
+        "ads": 3,
+        "air_count": 0
+      },
+      "Debates": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Government Efficiency": {
+        "ads": 2,
+        "air_count": 0
+      },
+      "Patriotism": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Unions": {
+        "ads": 3,
+        "air_count": 439
+      },
+      "Iran": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "National Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Poverty": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iraq": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary for America": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Transportation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Human Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Natural Disasters": {
+        "ads": 0,
+        "air_count": 0
+      }
+    },
+    "Marco Rubio": {
+      "Taxes": {
+        "ads": 7,
+        "air_count": 1692
+      },
+      "Candidate Biography": {
+        "ads": 12,
+        "air_count": 5451
+      },
+      "Veterans": {
+        "ads": 1,
+        "air_count": 595
+      },
+      "Children": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Immigration": {
+        "ads": 2,
+        "air_count": 746
+      },
+      "Guns": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Women": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Military": {
+        "ads": 1,
+        "air_count": 175
+      },
+      "State Budget": {
+        "ads": 1,
+        "air_count": 557
+      },
+      "Economy": {
+        "ads": 7,
+        "air_count": 643
+      },
+      "Jobs": {
+        "ads": 3,
+        "air_count": 118
+      },
+      "Federal Budget": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Trade": {
+        "ads": 1,
+        "air_count": 444
+      },
+      "Small Business": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Terrorism": {
+        "ads": 4,
+        "air_count": 597
+      },
+      "Homeland Security": {
+        "ads": 2,
+        "air_count": 873
+      },
+      "Environment": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Climate Change": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Energy": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Criminal Justice": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Health Care": {
+        "ads": 4,
+        "air_count": 1993
+      },
+      "Campaign Finance": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Education": {
+        "ads": 4,
+        "air_count": 542
+      },
+      "Debt": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Foreign Policy": {
+        "ads": 5,
+        "air_count": 1098
+      },
+      "Housing": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Nuclear": {
+        "ads": 1,
+        "air_count": 371
+      },
+      "Infrastructure": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "China": {
+        "ads": 1,
+        "air_count": 371
+      },
+      "Abortion": {
+        "ads": 1,
+        "air_count": 50
+      },
+      "Police": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Crime": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Drugs": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Gays and Lesbians": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Religion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Islam": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Disability": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Families": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Elections": {
+        "ads": 2,
+        "air_count": 11
+      },
+      "Voting Record": {
+        "ads": 3,
+        "air_count": 472
+      },
+      "Israel": {
+        "ads": 1,
+        "air_count": 371
+      },
+      "Polls and Public Opinion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Civil Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Supreme Court": {
+        "ads": 1,
+        "air_count": 422
+      },
+      "Social Security": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Medicare": {
+        "ads": 2,
+        "air_count": 136
+      },
+      "Hillary Clinton": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Job Accomplishments": {
+        "ads": 3,
+        "air_count": 1044
+      },
+      "Medicaid": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Corporations": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Negative Campaigning": {
+        "ads": 2,
+        "air_count": 336
+      },
+      "State Finances": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Income": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Government Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Public Safety": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Workers": {
+        "ads": 1,
+        "air_count": 595
+      },
+      "Labor": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Financial Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Deficit": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Legal Issues": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "States": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Washington D.C.": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Public Health": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Marriage": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Bipartisanship": {
+        "ads": 1,
+        "air_count": 906
+      },
+      "Congress": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Debates": {
+        "ads": 2,
+        "air_count": 50
+      },
+      "Government Efficiency": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Patriotism": {
+        "ads": 3,
+        "air_count": 16
+      },
+      "Unions": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iran": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "National Security": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Poverty": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iraq": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary for America": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Transportation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Human Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Natural Disasters": {
+        "ads": 0,
+        "air_count": 0
+      }
+    },
+    "Jeb Bush": {
+      "Taxes": {
+        "ads": 11,
+        "air_count": 170
+      },
+      "Candidate Biography": {
+        "ads": 3,
+        "air_count": 459
+      },
+      "Veterans": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Children": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Immigration": {
+        "ads": 5,
+        "air_count": 2320
+      },
+      "Guns": {
+        "ads": 2,
+        "air_count": 992
+      },
+      "Women": {
+        "ads": 1,
+        "air_count": 224
+      },
+      "Military": {
+        "ads": 8,
+        "air_count": 3324
+      },
+      "State Budget": {
+        "ads": 3,
+        "air_count": 0
+      },
+      "Economy": {
+        "ads": 5,
+        "air_count": 992
+      },
+      "Jobs": {
+        "ads": 7,
+        "air_count": 1008
+      },
+      "Federal Budget": {
+        "ads": 2,
+        "air_count": 208
+      },
+      "Trade": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Small Business": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Terrorism": {
+        "ads": 9,
+        "air_count": 5152
+      },
+      "Homeland Security": {
+        "ads": 2,
+        "air_count": 1891
+      },
+      "Environment": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Climate Change": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Energy": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Criminal Justice": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Health Care": {
+        "ads": 4,
+        "air_count": 1171
+      },
+      "Campaign Finance": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Education": {
+        "ads": 3,
+        "air_count": 169
+      },
+      "Debt": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Foreign Policy": {
+        "ads": 5,
+        "air_count": 1308
+      },
+      "Housing": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Nuclear": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Infrastructure": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "China": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Abortion": {
+        "ads": 3,
+        "air_count": 98
+      },
+      "Police": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Crime": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Drugs": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Gays and Lesbians": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Religion": {
+        "ads": 1,
+        "air_count": 529
+      },
+      "Islam": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Disability": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Families": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Elections": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Voting Record": {
+        "ads": 10,
+        "air_count": 4335
+      },
+      "Israel": {
+        "ads": 1,
+        "air_count": 30
+      },
+      "Polls and Public Opinion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Civil Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Supreme Court": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Social Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Medicare": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary Clinton": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Job Accomplishments": {
+        "ads": 7,
+        "air_count": 915
+      },
+      "Medicaid": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Corporations": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Negative Campaigning": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "State Finances": {
+        "ads": 2,
+        "air_count": 646
+      },
+      "Income": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Government Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Public Safety": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Workers": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Labor": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Financial Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Deficit": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Legal Issues": {
+        "ads": 2,
+        "air_count": 98
+      },
+      "States": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Washington D.C.": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Public Health": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Marriage": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Bipartisanship": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Congress": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Debates": {
+        "ads": 1,
+        "air_count": 23
+      },
+      "Government Efficiency": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Patriotism": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Unions": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iran": {
+        "ads": 1,
+        "air_count": 30
+      },
+      "National Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Poverty": {
+        "ads": 1,
+        "air_count": 169
+      },
+      "Iraq": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary for America": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Transportation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Human Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Natural Disasters": {
+        "ads": 1,
+        "air_count": 525
+      }
+    },
+    "Ben Carson": {
+      "Taxes": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Candidate Biography": {
+        "ads": 4,
+        "air_count": 0
+      },
+      "Veterans": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Children": {
+        "ads": 2,
+        "air_count": 0
+      },
+      "Immigration": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Guns": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Women": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Military": {
+        "ads": 2,
+        "air_count": 0
+      },
+      "State Budget": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Economy": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Jobs": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Federal Budget": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Trade": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Small Business": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Terrorism": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Homeland Security": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Environment": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Climate Change": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Energy": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Criminal Justice": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Health Care": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Campaign Finance": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Education": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Debt": {
+        "ads": 3,
+        "air_count": 0
+      },
+      "Foreign Policy": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Housing": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Nuclear": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Infrastructure": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "China": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Abortion": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Police": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Crime": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Drugs": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Gays and Lesbians": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Religion": {
+        "ads": 2,
+        "air_count": 0
+      },
+      "Islam": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Disability": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Families": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Elections": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Voting Record": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Israel": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Polls and Public Opinion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Civil Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Supreme Court": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Social Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Medicare": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary Clinton": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Job Accomplishments": {
+        "ads": 2,
+        "air_count": 1
+      },
+      "Medicaid": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Corporations": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Negative Campaigning": {
+        "ads": 3,
+        "air_count": 0
+      },
+      "State Finances": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Income": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Government Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Public Safety": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Workers": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Labor": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Financial Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Deficit": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Legal Issues": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "States": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Washington D.C.": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Public Health": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Marriage": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Bipartisanship": {
+        "ads": 3,
+        "air_count": 1
+      },
+      "Congress": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Debates": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Government Efficiency": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Patriotism": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Unions": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iran": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "National Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Poverty": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iraq": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary for America": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Transportation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Human Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Natural Disasters": {
+        "ads": 0,
+        "air_count": 0
+      }
+    },
+    "Rick Santorum": {
+      "Taxes": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Candidate Biography": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Veterans": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Children": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Immigration": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Guns": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Women": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Military": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "State Budget": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Economy": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Jobs": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Federal Budget": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Trade": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Small Business": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Terrorism": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Homeland Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Environment": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Climate Change": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Energy": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Criminal Justice": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Health Care": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Campaign Finance": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Education": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Debt": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Foreign Policy": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Housing": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Nuclear": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Infrastructure": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "China": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Abortion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Police": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Crime": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Drugs": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Gays and Lesbians": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Religion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Islam": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Disability": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Families": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Elections": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Voting Record": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Israel": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Polls and Public Opinion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Civil Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Supreme Court": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Social Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Medicare": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary Clinton": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Job Accomplishments": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Medicaid": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Corporations": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Negative Campaigning": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "State Finances": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Income": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Government Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Public Safety": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Workers": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Labor": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Financial Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Deficit": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Legal Issues": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "States": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Washington D.C.": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Public Health": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Marriage": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Bipartisanship": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Congress": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Debates": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Government Efficiency": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Patriotism": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Unions": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iran": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "National Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Poverty": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iraq": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary for America": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Transportation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Human Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Natural Disasters": {
+        "ads": 0,
+        "air_count": 0
+      }
+    },
+    "Bobby Jindal": {
+      "Taxes": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Candidate Biography": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Veterans": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Children": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Immigration": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Guns": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Women": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Military": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "State Budget": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Economy": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Jobs": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Federal Budget": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Trade": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Small Business": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Terrorism": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Homeland Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Environment": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Climate Change": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Energy": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Criminal Justice": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Health Care": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Campaign Finance": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Education": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Debt": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Foreign Policy": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Housing": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Nuclear": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Infrastructure": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "China": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Abortion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Police": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Crime": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Drugs": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Gays and Lesbians": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Religion": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Islam": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Disability": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Families": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Elections": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Voting Record": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Israel": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Polls and Public Opinion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Civil Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Supreme Court": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Social Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Medicare": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary Clinton": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Job Accomplishments": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Medicaid": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Corporations": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Negative Campaigning": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "State Finances": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Income": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Government Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Public Safety": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Workers": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Labor": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Financial Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Deficit": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Legal Issues": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "States": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Washington D.C.": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Public Health": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Marriage": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Bipartisanship": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Congress": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Debates": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Government Efficiency": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Patriotism": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Unions": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iran": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "National Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Poverty": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iraq": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary for America": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Transportation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Human Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Natural Disasters": {
+        "ads": 0,
+        "air_count": 0
+      }
+    },
+    "Carly Fiorina": {
+      "Taxes": {
+        "ads": 1,
+        "air_count": 147
+      },
+      "Candidate Biography": {
+        "ads": 6,
+        "air_count": 144
+      },
+      "Veterans": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Children": {
+        "ads": 1,
+        "air_count": 3
+      },
+      "Immigration": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Guns": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Women": {
+        "ads": 1,
+        "air_count": 6
+      },
+      "Military": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "State Budget": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Economy": {
+        "ads": 1,
+        "air_count": 147
+      },
+      "Jobs": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Federal Budget": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Trade": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Small Business": {
+        "ads": 1,
+        "air_count": 147
+      },
+      "Terrorism": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Homeland Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Environment": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Climate Change": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Energy": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Criminal Justice": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Health Care": {
+        "ads": 1,
+        "air_count": 86
+      },
+      "Campaign Finance": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Education": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Debt": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Foreign Policy": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Housing": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Nuclear": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Infrastructure": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "China": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Abortion": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Police": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Crime": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Drugs": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Gays and Lesbians": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Religion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Islam": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Disability": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Families": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Elections": {
+        "ads": 2,
+        "air_count": 91
+      },
+      "Voting Record": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Israel": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Polls and Public Opinion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Civil Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Supreme Court": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Social Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Medicare": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary Clinton": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Job Accomplishments": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Medicaid": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Corporations": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Negative Campaigning": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "State Finances": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Income": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Government Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Public Safety": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Workers": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Labor": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Financial Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Deficit": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Legal Issues": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "States": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Washington D.C.": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Public Health": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Marriage": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Bipartisanship": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Congress": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Debates": {
+        "ads": 1,
+        "air_count": 2
+      },
+      "Government Efficiency": {
+        "ads": 1,
+        "air_count": 3
+      },
+      "Patriotism": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Unions": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iran": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "National Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Poverty": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iraq": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary for America": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Transportation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Human Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Natural Disasters": {
+        "ads": 0,
+        "air_count": 0
+      }
+    },
+    "Rick Perry": {
+      "Taxes": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Candidate Biography": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Veterans": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Children": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Immigration": {
+        "ads": 2,
+        "air_count": 0
+      },
+      "Guns": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Women": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Military": {
+        "ads": 2,
+        "air_count": 0
+      },
+      "State Budget": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Economy": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Jobs": {
+        "ads": 4,
+        "air_count": 0
+      },
+      "Federal Budget": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Trade": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Small Business": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Terrorism": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Homeland Security": {
+        "ads": 5,
+        "air_count": 0
+      },
+      "Environment": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Climate Change": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Energy": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Criminal Justice": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Health Care": {
+        "ads": 2,
+        "air_count": 0
+      },
+      "Campaign Finance": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Education": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Debt": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Foreign Policy": {
+        "ads": 1,
+        "air_count": 2
+      },
+      "Housing": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Nuclear": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Infrastructure": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "China": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Abortion": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Police": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Crime": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Drugs": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Gays and Lesbians": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Religion": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Islam": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Disability": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Families": {
+        "ads": 2,
+        "air_count": 0
+      },
+      "Elections": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Voting Record": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Israel": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Polls and Public Opinion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Civil Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Supreme Court": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Social Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Medicare": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary Clinton": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Job Accomplishments": {
+        "ads": 4,
+        "air_count": 2
+      },
+      "Medicaid": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Corporations": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Negative Campaigning": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "State Finances": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Income": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Government Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Public Safety": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Workers": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Labor": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Financial Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Deficit": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Legal Issues": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "States": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Washington D.C.": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Public Health": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Marriage": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Bipartisanship": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Congress": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Debates": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Government Efficiency": {
+        "ads": 2,
+        "air_count": 0
+      },
+      "Patriotism": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Unions": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iran": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "National Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Poverty": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iraq": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary for America": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Transportation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Human Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Natural Disasters": {
+        "ads": 0,
+        "air_count": 0
+      }
+    },
+    "Mike Huckabee": {
+      "Taxes": {
+        "ads": 1,
+        "air_count": 1
+      },
+      "Candidate Biography": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Veterans": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Children": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Immigration": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Guns": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Women": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Military": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "State Budget": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Economy": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Jobs": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Federal Budget": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Trade": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Small Business": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Terrorism": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Homeland Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Environment": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Climate Change": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Energy": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Criminal Justice": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Health Care": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Campaign Finance": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Education": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Debt": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Foreign Policy": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Housing": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Nuclear": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Infrastructure": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "China": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Abortion": {
+        "ads": 2,
+        "air_count": 248
+      },
+      "Police": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Crime": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Drugs": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Gays and Lesbians": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Religion": {
+        "ads": 3,
+        "air_count": 658
+      },
+      "Islam": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Disability": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Families": {
+        "ads": 1,
+        "air_count": 1
+      },
+      "Elections": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Voting Record": {
+        "ads": 1,
+        "air_count": 272
+      },
+      "Israel": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Polls and Public Opinion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Civil Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Supreme Court": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Social Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Medicare": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary Clinton": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Job Accomplishments": {
+        "ads": 1,
+        "air_count": 249
+      },
+      "Medicaid": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Corporations": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Negative Campaigning": {
+        "ads": 3,
+        "air_count": 272
+      },
+      "State Finances": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Income": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Government Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Public Safety": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Workers": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Labor": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Financial Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Deficit": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Legal Issues": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "States": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Washington D.C.": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Public Health": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Marriage": {
+        "ads": 1,
+        "air_count": 1
+      },
+      "Bipartisanship": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Congress": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Debates": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Government Efficiency": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Patriotism": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Unions": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iran": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "National Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Poverty": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iraq": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary for America": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Transportation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Human Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Natural Disasters": {
+        "ads": 0,
+        "air_count": 0
+      }
+    },
+    "Scott Walker": {
+      "Taxes": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Candidate Biography": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Veterans": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Children": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Immigration": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Guns": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Women": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Military": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "State Budget": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Economy": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Jobs": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Federal Budget": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Trade": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Small Business": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Terrorism": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Homeland Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Environment": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Climate Change": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Energy": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Criminal Justice": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Health Care": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Campaign Finance": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Education": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Debt": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Foreign Policy": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Housing": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Nuclear": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Infrastructure": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "China": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Abortion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Police": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Crime": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Drugs": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Gays and Lesbians": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Religion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Islam": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Disability": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Families": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Elections": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Voting Record": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Israel": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Polls and Public Opinion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Civil Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Supreme Court": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Social Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Medicare": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary Clinton": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Job Accomplishments": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Medicaid": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Corporations": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Negative Campaigning": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "State Finances": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Income": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Government Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Public Safety": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Workers": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Labor": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Financial Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Deficit": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Legal Issues": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "States": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Washington D.C.": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Public Health": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Marriage": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Bipartisanship": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Congress": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Debates": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Government Efficiency": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Patriotism": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Unions": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Iran": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "National Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Poverty": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iraq": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary for America": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Transportation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Human Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Natural Disasters": {
+        "ads": 0,
+        "air_count": 0
+      }
+    },
+    "Rand Paul": {
+      "Taxes": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Candidate Biography": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Veterans": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Children": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Immigration": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Guns": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Women": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Military": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "State Budget": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Economy": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Jobs": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Federal Budget": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Trade": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Small Business": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Terrorism": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Homeland Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Environment": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Climate Change": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Energy": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Criminal Justice": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Health Care": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Campaign Finance": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Education": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Debt": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Foreign Policy": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Housing": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Nuclear": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Infrastructure": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "China": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Abortion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Police": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Crime": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Drugs": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Gays and Lesbians": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Religion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Islam": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Disability": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Families": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Elections": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Voting Record": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Israel": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Polls and Public Opinion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Civil Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Supreme Court": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Social Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Medicare": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary Clinton": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Job Accomplishments": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Medicaid": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Corporations": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Negative Campaigning": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "State Finances": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Income": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Government Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Public Safety": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Workers": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Labor": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Financial Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Deficit": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Legal Issues": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "States": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Washington D.C.": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Public Health": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Marriage": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Bipartisanship": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Congress": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Debates": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Government Efficiency": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Patriotism": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Unions": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iran": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "National Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Poverty": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iraq": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary for America": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Transportation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Human Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Natural Disasters": {
+        "ads": 0,
+        "air_count": 0
+      }
+    }
+  },
+  "G": {
+    "Jill Stein": {
+      "Taxes": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Candidate Biography": {
+        "ads": 3,
+        "air_count": 0
+      },
+      "Veterans": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Children": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Immigration": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Guns": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Women": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Military": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "State Budget": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Economy": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Jobs": {
+        "ads": 2,
+        "air_count": 0
+      },
+      "Federal Budget": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Trade": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Small Business": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Terrorism": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Homeland Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Environment": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Climate Change": {
+        "ads": 2,
+        "air_count": 0
+      },
+      "Energy": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Criminal Justice": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Health Care": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Campaign Finance": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Education": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Debt": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Foreign Policy": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Housing": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Nuclear": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Infrastructure": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "China": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Abortion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Police": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Crime": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Drugs": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Gays and Lesbians": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Religion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Islam": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Disability": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Families": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Elections": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Voting Record": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Israel": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Polls and Public Opinion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Civil Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Supreme Court": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Social Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Medicare": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary Clinton": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Job Accomplishments": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Medicaid": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Corporations": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Negative Campaigning": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "State Finances": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Income": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Government Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Public Safety": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Workers": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Labor": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Financial Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Deficit": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Legal Issues": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "States": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Washington D.C.": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Public Health": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Marriage": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Bipartisanship": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Congress": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Debates": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Government Efficiency": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Patriotism": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Unions": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iran": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "National Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Poverty": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iraq": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary for America": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Transportation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Human Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Natural Disasters": {
+        "ads": 0,
+        "air_count": 0
+      }
+    },
+    "all": {
+      "Taxes": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Candidate Biography": {
+        "ads": 3,
+        "air_count": 0
+      },
+      "Veterans": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Children": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Immigration": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Guns": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Women": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Military": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "State Budget": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Economy": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Jobs": {
+        "ads": 2,
+        "air_count": 0
+      },
+      "Federal Budget": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Trade": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Small Business": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Terrorism": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Homeland Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Environment": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Climate Change": {
+        "ads": 2,
+        "air_count": 0
+      },
+      "Energy": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Criminal Justice": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Health Care": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Campaign Finance": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Education": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Debt": {
+        "ads": 1,
+        "air_count": 0
+      },
+      "Foreign Policy": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Housing": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Nuclear": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Infrastructure": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "China": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Abortion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Police": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Crime": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Drugs": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Gays and Lesbians": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Religion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Islam": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Disability": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Families": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Elections": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Voting Record": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Israel": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Polls and Public Opinion": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Civil Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Supreme Court": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Social Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Medicare": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary Clinton": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Job Accomplishments": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Medicaid": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Corporations": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Negative Campaigning": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "State Finances": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Income": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Government Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Public Safety": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Workers": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Labor": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Financial Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Deficit": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Legal Issues": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "States": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Washington D.C.": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Public Health": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Regulation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Marriage": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Bipartisanship": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Congress": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Debates": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Government Efficiency": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Patriotism": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Unions": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iran": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "National Security": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Poverty": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Iraq": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Hillary for America": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Transportation": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Human Rights": {
+        "ads": 0,
+        "air_count": 0
+      },
+      "Natural Disasters": {
+        "ads": 0,
+        "air_count": 0
+      }
+    }
+  }
+}

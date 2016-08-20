@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Political ads</title>
+		<link rel="stylesheet" type="text/css" href="css/vendor/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+	</head>
+	<body>
+
+		<header id="primary-header" class="navbar navbar-full navbar-fixed-top">
+		</header>
+
+		<div id="primary-content" class="container">
+
+			<div class="row">
+				<div class="col-sm-12">
+					<div id="primary-jumbotron" class="jumbotron">
+						<h1 class="display-1">Explore the 2016 election though television ads.</h1>
+						<p class="lead">See who ran them, when they ran, and what they were about.</p>
+					</div>
+				</div>
+			</div>
+			<div id="viz-time-wrapper" class="viz-wrapper">
+				<div class="row viz-row">
+					<div class="col-sm-8 offset-sm-2">
+						<h1 class="viz-control-sentence">
+							<span id="time-controls-candidate"></span>&rsquo;s television ads ran <span id="time-controls-number"></span> times during the 2016 presidential campaign.
+							<select id="time-controls-candidates" class="viz-control-dropdown viz-dropdown"></select>
+						</h1>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-sm-10 offset-sm-1">
+						<svg id="viz-time" class="viz"></svg>
+					</div>
+				</div>
+			</div>
+			<div id="viz-time-subjects-wrapper" class="viz-wrapper">
+				<div class="row viz-row">
+					<div class="col-sm-8 offset-sm-2">
+						<h1 class="viz-control-sentence">
+							Television ads on <span id="viz-control-sentence-time-subjects-subject"></span> ran <span id="viz-control-sentence-time-subjects-number"></span> times during the 2016 presidential campaign.
+							<select id="viz-control-dropdown-time-subjects-subjects" class="viz-control-dropdown viz-dropdown"></select>
+						</h1>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-sm-10 offset-sm-1">
+						<svg id="viz-time-subjects" class="viz"></svg>
+					</div>
+				</div>
+			</div>
+			<div id="viz-subjects-wrapper" class="viz-wrapper">
+				<div class="row viz-row">
+					<div class="col-sm-8 offset-sm-2">
+						<h1 class="viz-control-sentence">
+							Democrats ran ads that talked about <span id="viz-control-sentence-subjects-subject"></span> <span id="viz-control-sentence-subjects-comparator"></span> than Republicans.
+							<select id="viz-control-dropdown-subjects-subjects" class="viz-control-dropdown viz-dropdown"></select>
+						</h1>
+				</div>
+				<div class="row">
+					<div class="col-sm-10 offset-sm-1">
+						<svg id="viz-subjects" class="viz"></svg>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<script src="js/vendor/jquery.min.js"></script>
+		<script src="js/vendor/underscore.min.js"></script>
+		<script src="js/vendor/tether.min.js"></script>
+		<script src="js/vendor/bootstrap.min.js"></script>
+		<script src="js/vendor/d3.min.js"></script>
+		<script src="js/vendor/numeral.min.js"></script>
+		<script src="js/time-candidates.js"></script>
+		<script src="js/time-subjects.js"></script>
+		<script src="js/subjects.js"></script>
+
+	</body>
+</html>
