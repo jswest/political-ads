@@ -182,7 +182,6 @@ d3.json( 'data/instances-by-subject.json', function ( instances ) {
 	$( '#viz-time-subjects' ).find( '.hoverspot' ).on( 'click', function () {
 		$( '#viz-time-subjects' ).find( '.line' ).removeClass( 'active' );
 		var subject = d3.select( this ).datum().subject;
-		console.log( subject );
 		$( '#viz-control-sentence-time-subjects-subject' ).text( _sentence[subject.toUpperCase()] );
 		var s = _.find( subjectInstances, function ( c ) {
 			return c.subject === subject;
