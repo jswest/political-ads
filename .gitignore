@@ -2,3 +2,4 @@
 node_modules/
 /data/seed/ads.csv
 /data/seed/instances.csv
+/charts/js/analytics.js
