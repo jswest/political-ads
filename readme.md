@@ -39,4 +39,6 @@ If you wish to visualize the data, first install the node module `http-server` g
 
 Ta-da.
 
-The visualization javascript is rough, and I would love some PRs.  
+The visualization javascript is rough, and I would love some PRs.
+
+Note, I included the when the candidates dropped out of the race. I got that data from the [Atlantic](http://www.theatlantic.com/politics/archive/2016/08/2016-election/384828/).
